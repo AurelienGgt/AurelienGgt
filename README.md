@@ -18,7 +18,6 @@ Passionate about leveraging data to drive business decisions, I specialize in op
 <h1>📊 GitHub Stats :</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AurelienGgt&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
   <img src="https://github-profile-trophy.vercel.app/?username=AurelienGgt&theme=darkhub&margin-w=5" alt="GitHub Trophies">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AurelienGgt&theme=react-dark" alt="GitHub Activity Graph">
 </p>
