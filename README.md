@@ -7,24 +7,43 @@ Passionate about transforming data into actionable insights using SQL, Python, E
 
 ### 🔧 Tech Stack :
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![BI](https://img.shields.io/badge/BI-PowerBI-01A982?style=for-the-badge&logo=power-bi&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/BI-PowerBI-01A982?style=for-the-badge&logo=power-bi&logoColor=white">
+</p>
+
+---
+### 📊 GitHub Stats :
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AurelienGgt&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AurelienGgt&theme=darkhub&margin-w=5">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AurelienGgt&theme=react-dark">
+</p>
 
 ---
 
 ### 🏆 Featured Project :
 
 #### Customer Personality Analysis
-- **Description**: A machine learning project analyzing customer behavior to optimize marketing strategies.
-Data Cleaning & Preprocessing (Pandas, NumPy)
-Exploratory Data Analysis (Matplotlib, Seaborn)
-Clustering (K-Means, Hierarchical Clustering, PCA)
-- **Technologies**: Python,...
 - **Dataset**: [Customer Personality Analysis on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
-- **Project Link**: [Customer Personality Analysis on Kaggle](https://github.com/AurelienGgt/Customer-Personality-Analysis)
+- **Project Link**: [Customer Personality Analysis](https://github.com/AurelienGgt/Customer-Personality-Analysis)
 
+#### ghouls-goblins-and-ghosts-boo :
+- **Dataset**: [ghouls-goblins-and-ghosts-boo on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
+- **Project Link**: [ghouls-goblins-and-ghosts-boo](https://github.com/AurelienGgt/Customer-Personality-Analysis)
+
+#### Gamelytics_Mobile_Analytics_Challenge :
+- **Dataset**: [Gamelytics_Mobile_Analytics_Challenge on Kaggle](https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge/code)
+- **Project Link**: [Gamelytics_Mobile_Analytics_Challenge](https://github.com/AurelienGgt/Gamelytics_Mobile_Analytics_Challenge)
 ---
 
 ### 🎓 Professional Certifications I am preparing :
@@ -42,12 +61,7 @@ Certification free until 15th May
 
 ### 🎓 Professional Certifications :
 
-
----
-### 📊 GitHub Stats :
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AurelienGgt&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelienGgt&layout=compact&theme=dark)
+IN PROGRESS
 
 ---
 
