@@ -9,13 +9,24 @@
 
 ---
 
-<h1 align="center">🔧 Tech Stack</h1>
+<h1 align="center">📫 Connect with Me</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL - PostgreSQL">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python programming">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel skills">
-  <img src="https://img.shields.io/badge/BI-PowerBI-01A982?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI business intelligence">
-</p>
+<a href="https://www.linkedin.com/in/aurélien-gorguet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aurelien-Gorguet" height="30" width="40" /></a>
+<a href="https://github.com/AurelienGgt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Aurelien-Gorguet" height="30" width="40" /></a>
+</p> 
+
+---
+
+<h1 align="center">🔧 Tech Stack</h1>
+
+  <p align="center"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 
 ---
 
@@ -93,13 +104,6 @@ I continuously upgrade my skills with various online courses. These are some of 
 - [Become an Oracle Fusion Cloud Applications ERP Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-erp-foundations-associate/146907)
 - [Become an OCI Foundations Associate (2024)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2024-localized-exams/139374)
 - [Become an Oracle AI Vector Search Professional](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-ai-vector-search-professional/144854)
-
----
-
-<h1 align="center">📫 Connect with Me</h1>
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/aurélien-gorguet/)
-- 📧 [Email](mailto:aureliengorguet7@gmail.com)
 
 ---
 
