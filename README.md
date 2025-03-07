@@ -29,25 +29,33 @@
 
 <h1 align="center">🎓 Formations</h1>
 
-## Data Analyst Formation
-[**Website**](https://openclassrooms.com/fr/paths/324-data-analyst) - [**Projects Folder**](https://github.com/AurelienGgt/Data-Analyst-Formation)  
+## Data Analyst Formation :
+
+[**Website**](https://openclassrooms.com/fr/paths/324-data-analyst) - [**Projects Folder**](https://github.com/AurelienGgt/Data-Analyst-Formation)  - [**Link of the degree**](https://www.linkedin.com/in/aurélien-gorguet/overlay/education/714039642/multiple-media-viewer?profileId=ACoAADUe15oBgxCNk2J6PSV4APhhQPAlUF-BnPU&treasuryMediaId=1635495790653&type=DOCUMENT&locale=en_US&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list%3BHZi9ux7gT6aufPqLUqQShA%3D%3D) 
+
 The Data Analyst program at OpenClassrooms teaches you how to collect, clean, analyze, and visualize data to support business decision-making. Key skills include Python, SQL, and data visualization tools. Practical projects cover market segmentation and sales analysis, preparing you for real-world data challenges.
 
-## Machine Learning Engineer Formation
-[**Website**](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning) - [**Projects Folder**](https://github.com/AurelienGgt/Machine-Learning-Engineer-formation)  
+## Machine Learning Engineer Formation :
+
+[**Website**](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning) - [**Projects Folder**](https://github.com/AurelienGgt/Machine-Learning-Engineer-formation) - [**Link of the degree**](https://www.linkedin.com/in/aurélien-gorguet/overlay/education/787295248/multiple-media-viewer?profileId=ACoAADUe15oBgxCNk2J6PSV4APhhQPAlUF-BnPU&treasuryMediaId=1635543986567&type=DOCUMENT&locale=en_US&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BlFGY6%2BbtTLq%2F3aJZFUQN2Q%3D%3D) 
+
 This program trains you to design predictive models and autonomous systems by blending data science and software development. You’ll learn to build machine learning and deep learning algorithms, deploy models using cloud services, and implement MLOps practices. Hands-on projects include recommendation engines and predictive systems.
 
 ---
 
 <h1 align="center">📚 Training Courses</h1>
-I continuously upgrade my skills with various online courses. Here are some of the training projects I have completed as part of my learning journey:
 
-### Google Data Analytics by Coursera
+<p align="center">
+I continuously upgrade my skills with various online courses. These are some of the training projects I have completed as part of my learning journey:
+</p>
+
+### Google Data Analytics by Coursera :
+
 - **Description**: Applied data analytics techniques on real-world datasets, covering data cleaning, analysis, and visualization, using tools like SQL, R, and spreadsheets.
 - **Course**: [Google Data Analytics by Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 - **Certification Link**: [Google Data Analytics](In progress)
 
-### Google IT Support by Coursera
+### Google IT Support by Coursera :
 - **Description**: Learning IT support fundamentals, including networking, system administration, and troubleshooting with practical labs.
 - **Course**: [Google IT Support by Coursera](https://www.coursera.org/professional-certificates/google-it-support)
 - **Certification Link**: [Google IT Support](In progress)
@@ -56,32 +64,36 @@ I continuously upgrade my skills with various online courses. Here are some of t
 
 <h1 align="center">🏆 Featured Projects</h1>
 
-### Customer Personality Analysis
+### Customer Personality Analysis :
+
 - **Description**: A machine learning project analyzing customer behavior to optimize marketing strategies.
 - **Dataset**: [Customer Personality Analysis on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
 - **Project Link**: [Customer Personality Analysis](https://github.com/AurelienGgt/Customer-Personality-Analysis)
 
-### Ghouls, Goblins, and Ghosts - Boo!
+### Ghouls, Goblins, and Ghosts - Boo! :
+
 - **Description**: A data analysis project on ghostly behavior data.
 - **Dataset**: [Ghouls, Goblins, and Ghosts - Boo! on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
 - **Project Link**: [Ghouls, Goblins, and Ghosts - Boo!](https://github.com/AurelienGgt/ghouls-goblins-and-ghosts-boo)
 
-### Gamelytics Mobile Analytics Challenge
+### Gamelytics Mobile Analytics Challenge :
+
 - **Description**: An analysis of mobile gaming behavior and player engagement.
 - **Dataset**: [Gamelytics Mobile Analytics Challenge on Kaggle](https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge/code)
 - **Project Link**: [Gamelytics Mobile Analytics Challenge](https://github.com/AurelienGgt/Gamelytics_Mobile_Analytics_Challenge)
 
 ---
 
-<h1 align="center">🎓 Professional Certifications I am preparing</h1>
+<h1 align="center">🎓 Professional Certifications I am preparing :</h1>
+
 **Free until 15th May**
 
-- [Become An Oracle APEX Developer Professional](#)
-- [Become an Oracle Fusion Cloud Applications CX Foundations Associate](#)
-- [Become an Oracle Fusion Cloud Applications HCM Foundations Associate](#)
-- [Become an Oracle Fusion Cloud Applications ERP Foundations Associate](#)
-- [Become an OCI Foundations Associate (2024)](#)
-- [Become an Oracle AI Vector Search Professional](#)
+- [Become An Oracle APEX Developer Professional](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional/146080)
+- [Become an Oracle Fusion Cloud Applications CX Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-cx-foundations-associate/146887)
+- [Become an Oracle Fusion Cloud Applications HCM Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-hcm-foundations-associate/146869)
+- [Become an Oracle Fusion Cloud Applications ERP Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-erp-foundations-associate/146907)
+- [Become an OCI Foundations Associate (2024)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2024-localized-exams/139374)
+- [Become an Oracle AI Vector Search Professional](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-ai-vector-search-professional/144854)
 
 ---
 
