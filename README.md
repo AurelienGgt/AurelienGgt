@@ -59,11 +59,16 @@ This program trains you to design predictive models and autonomous systems by bl
 I continuously upgrade my skills with various online courses. These are some of the training projects I have completed as part of my learning journey:
 </p>
 
-### Google Data Analytics by Coursera :
+
+<h3 align="center"> Google Data Analytics by Coursera :</h3>
+
+<p align="center">
+<a href="https://www.coursera.com" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80"/> </a>  
+</p>
 
 - **Description**: Applied data analytics techniques on real-world datasets, covering data cleaning, analysis, and visualization, using tools like SQL, R, and spreadsheets.
 - **Course**: [Google Data Analytics by Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
-- **Certification Link**: [Google Data Analytics](In progress)
+- **Certification Link**: [Google Data Analytics](https://www.credly.com/earner/earned/badge/b1b94bbb-55bc-4df5-a372-960fb529a17e)
 
 ### Google IT Support by Coursera :
 - **Description**: Learning IT support fundamentals, including networking, system administration, and troubleshooting with practical labs.
