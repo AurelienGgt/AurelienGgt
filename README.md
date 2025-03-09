@@ -3,9 +3,11 @@
 <h1 align="center">Hi there! 👋 I'm Aurelien</h1>
 
 <p align="center">
-  🚀 <strong>CRM Analyst | Administrator | Domain Administrator</strong><br>
-  Passionate about leveraging data to drive business decisions, I specialize in optimizing customer relationship management systems, data analysis, and IT infrastructure. With strong skills in SQL, Python, and business intelligence tools, I transform complex data into actionable insights. As a dedicated CRM analyst, I thrive in environments where data-driven strategies and innovative technology meet.
+  🚀 <strong>CRM Admin | Domain Administrator | IT & Data Specialist</strong><br>
+  
+  With a Bachelor's in Data Analysis and a Master's in Machine Learning & Data Science, along with cybersecurity support experience, I excel as a CRM Admin. I optimize CRM systems and IT infrastructure to drive strategic, ensuring operational excellence in dynamic environments.
 </p>
+
 
 ---
 
