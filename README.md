@@ -60,8 +60,8 @@ I continuously upgrade my skills with various online courses. These are some of 
 </p>
 
 
-<h3 align="center"> Google Data Analytics by Coursera :</h3>
-
+ 
+<h3 align="center">📚  Google data analytics by Coursera :</h3>
 <p align="center">
 <a href="https://www.coursera.com" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80"/> </a>  
 </p>
@@ -70,28 +70,36 @@ I continuously upgrade my skills with various online courses. These are some of 
 - **Course**: [Google Data Analytics by Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 - **Certification Link**: [Google Data Analytics](https://www.credly.com/earner/earned/badge/b1b94bbb-55bc-4df5-a372-960fb529a17e)
 
-### Google IT Support by Coursera :
+<h3 align="center">📚  Google IT Support by Coursera :</h3>
+
 - **Description**: Learning IT support fundamentals, including networking, system administration, and troubleshooting with practical labs.
 - **Course**: [Google IT Support by Coursera](https://www.coursera.org/professional-certificates/google-it-support)
 - **Certification Link**: [Google IT Support](In progress)
+
+<h3 align="center">📚  Google Cybersecurity by Coursera :</h3>
+
+- **Description**: Learning cybersecurity fundamentals, including network security, risk management, and threat detection with practical labs.
+- **Course**: [Google Cybersecurity by Coursera](https://www.coursera.org/programs/google-ateliers-numeriques-7uvyv/professional-certificates/google-cybersecurity?collectionId=0yhy3)
+- **Certification Link**: [Google Cybersecurity](In progress)
+
 
 ---
 
 <h1 align="center">🏆 Featured Projects</h1>
 
-### Customer Personality Analysis :
+### 🏆 Customer Personality Analysis :
 
 - **Description**: A machine learning project analyzing customer behavior to optimize marketing strategies.
 - **Dataset**: [Customer Personality Analysis on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
 - **Project Link**: [Customer Personality Analysis](https://github.com/AurelienGgt/Customer-Personality-Analysis)
 
-### Ghouls, Goblins, and Ghosts - Boo! :
+### 🏆 Ghouls, Goblins, and Ghosts - Boo! :
 
 - **Description**: A data analysis project on ghostly behavior data.
 - **Dataset**: [Ghouls, Goblins, and Ghosts - Boo! on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
 - **Project Link**: [Ghouls, Goblins, and Ghosts - Boo!](https://github.com/AurelienGgt/ghouls-goblins-and-ghosts-boo)
 
-### Gamelytics Mobile Analytics Challenge :
+### 🏆 Gamelytics Mobile Analytics Challenge :
 
 - **Description**: An analysis of mobile gaming behavior and player engagement.
 - **Dataset**: [Gamelytics Mobile Analytics Challenge on Kaggle](https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge/code)
@@ -101,7 +109,11 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 <h1 align="center">🎓 Professional Certifications I am preparing :</h1>
 
+
+<h3 align="center">🎓 Oracle Professional Certifications I am preparing :</h3>
+
 **Free until 15th May**
+  
 
 - [Become An Oracle APEX Developer Professional](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional/146080)
 - [Become an Oracle Fusion Cloud Applications CX Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-cx-foundations-associate/146887)
@@ -109,6 +121,13 @@ I continuously upgrade my skills with various online courses. These are some of 
 - [Become an Oracle Fusion Cloud Applications ERP Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-erp-foundations-associate/146907)
 - [Become an OCI Foundations Associate (2024)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2024-localized-exams/139374)
 - [Become an Oracle AI Vector Search Professional](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-ai-vector-search-professional/144854)
+
+<h3 align="center">🎓 Hubspot Professional Certifications I am preparing :</h3>
+
+- [HubSpot Reporting & Analytics Certification](https://www.hubspot.com/acp/reporting-analytics)
+- [HubSpot Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
+- [HubSpot Sales Software Certification](https://academy.hubspot.com/courses/hubspot-sales-hub-software)
+	
 
 ---
 
