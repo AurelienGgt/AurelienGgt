@@ -63,7 +63,7 @@ I continuously upgrade my skills with various online courses. These are some of 
  
 <h3 align="center">📚  Google data analytics by Coursera :</h3>
 <p align="center">
-<a href="https://www.coursera.com" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80"/> </a>  
+<a href="https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80"/> </a>  
 </p>
 
 - **Description**: Applied data analytics techniques on real-world datasets, covering data cleaning, analysis, and visualization, using tools like SQL, R, and spreadsheets.
