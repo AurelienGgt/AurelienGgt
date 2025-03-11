@@ -107,10 +107,10 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 ---
 
-<h1 align="center">🎓 Professional Certifications I am preparing :</h1>
+<h1 align="center">🎓 Professional Certifications in progress :</h1>
 
 
-<h3 align="center">🎓 Oracle Professional Certifications I am preparing :</h3>
+<h3 align="center">🎓 Oracle Professional Certifications :</h3>
 
 **Free until 15th May**
   
@@ -122,12 +122,17 @@ I continuously upgrade my skills with various online courses. These are some of 
 - [Become an OCI Foundations Associate (2024)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2024-localized-exams/139374)
 - [Become an Oracle AI Vector Search Professional](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-ai-vector-search-professional/144854)
 
-<h3 align="center">🎓 Hubspot Professional Certifications I am preparing :</h3>
+<h3 align="center">🎓 Hubspot Professional Certifications :</h3>
 
 - [HubSpot Reporting & Analytics Certification](https://www.hubspot.com/acp/reporting-analytics)
 - [HubSpot Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
 - [HubSpot Sales Software Certification](https://academy.hubspot.com/courses/hubspot-sales-hub-software)
-	
+- [CRM Data Migration Certification](https://academy.hubspot.com/courses/CRM-Data-Migration-Certification)
+- [HubSpot Architecture I](https://www.hubspot.com/partnercredentials/solutionsarchitecturedesignaccreditation)
+- [Salesforce Integration](https://academy.hubspot.com/lessons/salesforce-integration-with-hubspot)
+- [Integrating With HubSpot I : Foundations](https://academy.hubspot.com/courses/integrating-with-hubspot-foundations)
+- [Solutions Architecture Foundations](https://academy.hubspot.com/courses/solutions-architecture-foundations)
+- [Revenue Operations](https://academy.hubspot.com/courses/revenue-operations)
 
 ---
 
