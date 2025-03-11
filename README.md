@@ -11,14 +11,14 @@
 
 ---
 
-<h1 align="center">📫 Connect with Me</h1>
+<h1 align="center">📫 Connect with Me : </h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aurélien-gorguet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aurelien-Gorguet" height="30" width="40" /></a>
 
 ---
 
-<h1 align="center">🔧 Tech Stack</h1>
+<h1 align="center">🔧 Tech Stack : </h1>
 
   <p align="center"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -30,22 +30,22 @@
 
 ---
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center">📊 GitHub Stats : </h1>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AurelienGgt&theme=react-dark" alt="GitHub Activity Graph for AurelienGgt">
 </p>
 
 ---
 
-<h1 align="center">🎓 Formations</h1>
+<h1 align="center">🎓 Formations : </h1>
 
-## Data Analyst Formation :
+<h2 align="center"> Data Analyst Formation :</h2>
 
 [**Website**](https://openclassrooms.com/fr/paths/324-data-analyst) - [**Projects Folder**](https://github.com/AurelienGgt/Data-Analyst-Formation)  - [**Link of the degree**](https://www.linkedin.com/in/aurélien-gorguet/overlay/education/714039642/multiple-media-viewer?profileId=ACoAADUe15oBgxCNk2J6PSV4APhhQPAlUF-BnPU&treasuryMediaId=1635495790653&type=DOCUMENT&locale=en_US&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list%3BHZi9ux7gT6aufPqLUqQShA%3D%3D) 
 
 The Data Analyst program at OpenClassrooms teaches you how to collect, clean, analyze, and visualize data to support business decision-making. Key skills include Python, SQL, and data visualization tools. Practical projects cover market segmentation and sales analysis, preparing you for real-world data challenges.
 
-## Machine Learning Engineer Formation :
+<h2 align="center"> Machine Learning Engineer Formation :</h2>
 
 [**Website**](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning) - [**Projects Folder**](https://github.com/AurelienGgt/Machine-Learning-Engineer-formation) - [**Link of the degree**](https://www.linkedin.com/in/aurélien-gorguet/overlay/education/787295248/multiple-media-viewer?profileId=ACoAADUe15oBgxCNk2J6PSV4APhhQPAlUF-BnPU&treasuryMediaId=1635543986567&type=DOCUMENT&locale=en_US&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BlFGY6%2BbtTLq%2F3aJZFUQN2Q%3D%3D) 
 
@@ -53,7 +53,7 @@ This program trains you to design predictive models and autonomous systems by bl
 
 ---
 
-<h1 align="center">📚 Training Courses</h1>
+<h1 align="center">📚 Training Courses : </h1>
 
 <p align="center">
 I continuously upgrade my skills with various online courses. These are some of the training projects I have completed as part of my learning journey:
@@ -85,21 +85,21 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 ---
 
-<h1 align="center">🏆 Featured Projects</h1>
+<h1 align="center">🏆 Featured Projects : </h1>
 
-### 🏆 Customer Personality Analysis :
+<h3 align="center"> 🏆 Customer Personality Analysis :</h3>
 
 - **Description**: A machine learning project analyzing customer behavior to optimize marketing strategies.
 - **Dataset**: [Customer Personality Analysis on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
 - **Project Link**: [Customer Personality Analysis](https://github.com/AurelienGgt/Customer-Personality-Analysis)
 
-### 🏆 Ghouls, Goblins, and Ghosts - Boo! :
+<h3 align="center"> 🏆 Ghouls, Goblins, and Ghosts - Boo! :</h3>
 
 - **Description**: A data analysis project on ghostly behavior data.
 - **Dataset**: [Ghouls, Goblins, and Ghosts - Boo! on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
 - **Project Link**: [Ghouls, Goblins, and Ghosts - Boo!](https://github.com/AurelienGgt/ghouls-goblins-and-ghosts-boo)
 
-### 🏆 Gamelytics Mobile Analytics Challenge :
+<h3 align="center"> 🏆 Gamelytics Mobile Analytics Challenge :</h3>
 
 - **Description**: An analysis of mobile gaming behavior and player engagement.
 - **Dataset**: [Gamelytics Mobile Analytics Challenge on Kaggle](https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge/code)
