@@ -124,9 +124,16 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 <h3 align="center">🎓 Hubspot Professional Certifications :</h3>
 
+<!-- Begin: HubSpot Academy - HubSpot Sales Hub Software Badge -->
+<div class="academy-badge" align="left">
+  <a href="https://app.hubspot.com/academy/achievements/3rn6f24p/en/1/aurelien-gorguet/hubspot-sales-hub-software" title="HubSpot Sales Hub Software">
+    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/685ce1a6b2bb4cedb25a9ca3c5e5c8c7.png" alt="HubSpot Sales Hub Software Badge" style="width: 160px; height: auto;" />
+  </a>
+</div>
+<!-- End: HubSpot Academy - HubSpot Sales Hub Software Badge -->
+
 - [HubSpot Reporting & Analytics Certification](https://www.hubspot.com/acp/reporting-analytics)
 - [HubSpot Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
-- [HubSpot Sales Software Certification](https://academy.hubspot.com/courses/hubspot-sales-hub-software)
 - [CRM Data Migration Certification](https://academy.hubspot.com/courses/CRM-Data-Migration-Certification)
 - [HubSpot Architecture I](https://www.hubspot.com/partnercredentials/solutionsarchitecturedesignaccreditation)
 - [Salesforce Integration](https://academy.hubspot.com/lessons/salesforce-integration-with-hubspot)
