@@ -25,6 +25,7 @@
 <code><img height="60" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="60" alt="excel" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"></code>
 <code><img height="60" alt="Power BI" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"></code>
+<code><img height="60" alt="Knime" src="https://cybertrend-intra.com/wp-content/uploads/2023/01/knime.jpg"></code>
 
 ---
 
@@ -104,8 +105,15 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 ---
 
-<h1 align="center">🎓 Professional Certifications in progress :</h1>
+<h1 align="center">🎓 Professional Certifications :</h1>
 
+<!-- Begin: KNIME L1 Badge -->
+<div class="academy-badge" align="center">
+  <a href="https://www.credly.com/badges/225e8355-77e3-4a3c-9bb1-e3ce3a756219" title="KNIME L1 Certification">
+    <img src="https://images.credly.com/size/340x340/images/ba8f2415-703b-4d41-a850-5aecbabd5cf4/L1_Large.png" alt="HubSpot Sales Hub Software Badge" style="width: 80px; height: auto;" />
+  </a>
+</div>
+<!-- End: KNIME L1 Badge -->
 
 <h3 align="center">🎓 Oracle Professional Certifications :</h3>
 
