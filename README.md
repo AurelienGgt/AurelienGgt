@@ -30,7 +30,7 @@
 
 <h1 align="center">📊 GitHub Stats : </h1>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AurelienGgt&theme=react-dark&v=3" alt="GitHub Activity Graph for AurelienGgt">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AurelienGgt&theme=react-dark" alt="GitHub Activity Graph for AurelienGgt">
 </p>
 
 ---
