@@ -4,8 +4,8 @@
 
 <p align="center">
   🚀 <strong>CRM Admin | Domain Administrator | IT & Data Specialist</strong><br>
-  
-  With a Bachelor's in Data Analysis and a Master's in Machine Learning & Data Science, along with cybersecurity support experience, I excel as a CRM Admin. I optimize CRM systems and IT infrastructure to drive strategic, ensuring operational excellence in dynamic environments.
+<p align="center">  
+  With a EQF level 6 in Data Analysis and a EQF level 7 in Machine Learning & Data Science, along with Technical Support for Antivirus Software professionnal experience and CRM analyst - Domain administrator experience. I optimize CRM systems and IT infrastructure to drive strategic, ensuring operational excellence in dynamic environments.
 </p>
 
 
@@ -20,12 +20,13 @@
 
 <h1 align="center">🔧 Tech Stack : </h1>
 
-
+<p align="center">
 <code><img height="60" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="60" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="60" alt="excel" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"></code>
 <code><img height="60" alt="Power BI" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"></code>
 <code><img height="60" alt="Knime" src="https://cybertrend-intra.com/wp-content/uploads/2023/01/knime.jpg"></code>
+</p>
 
 ---
 
@@ -138,6 +139,11 @@ I continuously upgrade my skills with various online courses. These are some of 
 - [Solutions Architecture Foundations](https://academy.hubspot.com/courses/solutions-architecture-foundations)
 - [Revenue Operations](https://academy.hubspot.com/courses/revenue-operations)
 
+
+<h3 align="center">🎓 AWS Professional Certifications :</h3>
+
+- [AWS AI practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
+- [AWS solution architect associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 ---
 
 *Currently diving deep into Data Engineering projects and sharpening my skills in data analysis and visualization!*
