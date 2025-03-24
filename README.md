@@ -2,11 +2,18 @@
 
 <h1 align="center">Hi there! 👋 I'm Aurelien</h1>
 
-<p align="center">
-  🚀 <strong>CRM Admin | Domain Administrator | IT & Data Specialist</strong><br>
-<p align="center">  
-  With a EQF level 6 in Data Analysis and a EQF level 7 in Machine Learning & Data Science, along with Technical Support for Antivirus Software professionnal experience and CRM analyst - Domain administrator experience. I optimize CRM systems and IT infrastructure to drive strategic, ensuring operational excellence in dynamic environments.
-</p>
+<div align="center">
+  <h2>🚀 CRM Admin | Domain Administrator | IT & Data Specialist</h2>
+  <p>
+    With a <strong>EQF Level 6 in Data Analysis</strong> and a <strong>EQF Level 7 in Machine Learning & Data Science</strong>, along with professional experience in <strong>Technical Support for Antivirus Software</strong> and as a <strong>CRM Analyst</strong> & <strong>Domain Administrator</strong>, I optimize CRM systems and IT infrastructure to drive strategic excellence in dynamic environments.
+  </p>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/EQF%20Data%20Analysis-Level%206-blue" alt="EQF Level 6">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Level%207-green" alt="EQF Level 7">
+  <img src="https://img.shields.io/badge/CRM_Admin-%F0%9F%92%BB-orange" alt="CRM Admin">
+</div>
 
 
 ---
