@@ -11,8 +11,9 @@
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://img.shields.io/badge/EQF%20Data%20Analysis-Level%206-blue" alt="EQF Level 6">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Level%207-green" alt="EQF Level 7">
-  <img src="https://img.shields.io/badge/CRM_Admin-%F0%9F%92%BB-orange" alt="CRM Admin">
+  <img src="https://img.shields.io/badge/EQF%20Machine%20Learning-Level%207-green" alt="EQF Level 7">
+  <img src="https://img.shields.io/badge/CRM_Analyst-%F0%9F%92%BB-orange" alt="CRM Admin">
+  <img src="https://img.shields.io/badge/Technical support-%F0%9F%92%BB-yellow" alt="Technical Support">
 </div>
 
 
@@ -41,7 +42,9 @@
 
 <h2 align="center"> Data Analyst Formation :</h2>
 
+
 [**Website**](https://openclassrooms.com/fr/paths/324-data-analyst) - [**Projects Folder**](https://github.com/AurelienGgt/Data-Analyst-Formation)  - [**Link of the degree**](https://www.linkedin.com/in/aurélien-gorguet/overlay/education/714039642/multiple-media-viewer?profileId=ACoAADUe15oBgxCNk2J6PSV4APhhQPAlUF-BnPU&treasuryMediaId=1635495790653&type=DOCUMENT&locale=en_US&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list%3BHZi9ux7gT6aufPqLUqQShA%3D%3D) 
+
 
 The Data Analyst program at OpenClassrooms teaches you how to collect, clean, analyze, and visualize data to support business decision-making. Key skills include Python, SQL, and data visualization tools. Practical projects cover market segmentation and sales analysis, preparing you for real-world data challenges.
 
