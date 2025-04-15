@@ -152,6 +152,8 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 <h3 align="center">🎓 AWS Professional Certifications :</h3>
 
+Free certification until August 2025 : [Link](https://www.awseducate.com/)
+
 - [AWS AI practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
 - [AWS solution architect associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 ---
