@@ -107,6 +107,12 @@ I continuously upgrade my skills with various online courses. These are some of 
 - **Dataset**: [Gamelytics Mobile Analytics Challenge on Kaggle](https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge/code)
 - **Project Link**: [Gamelytics Mobile Analytics Challenge](https://github.com/AurelienGgt/Gamelytics_Mobile_Analytics_Challenge)
 
+<h3 align="center"> 🏆 Customer Support Efficiency Enhancement :</h3>
+
+- **Description**: An analysis of customer support efficiency.
+- **Dataset**: [Customer Support Efficiency Enhancement on Kaggle](https://www.kaggle.com/datasets/suvroo/customer-support-enhancing-efficiency)
+- **Project Link**: [Customer Support Efficiency Enhancement](https://github.com/AurelienGgt/Customer-Support-Enhancing-Efficiency)
+
 ---
 
 <h1 align="center">🎓 Professional Certifications :</h1>
