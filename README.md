@@ -64,9 +64,23 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 
  
-<p align="center">
-<a href="https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80"/> </a>  
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url" target="_blank" rel="noreferrer">
+        <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url" target="_blank" rel="noreferrer">
+        <img src="https://images.credly.com/size/110x110/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support" width="80" height="80"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<h3 align="center">📚  Google Data Analytics by Coursera :</h3>
 
 - **Description**: Applied data analytics techniques on real-world datasets, covering data cleaning, analysis, and visualization, using tools like SQL, R, and spreadsheets.
 - **Course**: [Google Data Analytics by Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
@@ -76,7 +90,7 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 - **Description**: Learning IT support fundamentals, including networking, system administration, and troubleshooting with practical labs.
 - **Course**: [Google IT Support by Coursera](https://www.coursera.org/professional-certificates/google-it-support)
-- **Certification Link**: [Google IT Support](In progress)
+- **Certification Link**: [Google IT Support]
 
 <h3 align="center">📚  Google Cybersecurity by Coursera :</h3>
 
