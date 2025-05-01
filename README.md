@@ -90,7 +90,7 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 - **Description**: Learning IT support fundamentals, including networking, system administration, and troubleshooting with practical labs.
 - **Course**: [Google IT Support by Coursera](https://www.coursera.org/professional-certificates/google-it-support)
-- **Certification Link**: [Google IT Support]
+- **Certification Link**: [Google IT Support](https://www.credly.com/earner/earned/badge/de4ae72e-2fcd-48c5-9966-ad31974058ef)
 
 <h3 align="center">📚  Google Cybersecurity by Coursera :</h3>
 
