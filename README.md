@@ -68,12 +68,12 @@ I continuously upgrade my skills with various online courses. These are some of 
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80"/>
+        <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="120" height= auto/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/size/110x110/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support" width="80" height="80"/>
+        <img src="https://images.credly.com/size/110x110/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support" width="120" height= auto/>
       </a>
     </td>
   </tr>
@@ -153,21 +153,24 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 <h3 align="center">🎓 Hubspot Professional Certifications :</h3>
 
-<!-- Begin: HubSpot Academy - HubSpot Sales Hub Software Badge -->
-<div class="academy-badge" align="center">
-  <a href="https://app.hubspot.com/academy/achievements/3rn6f24p/en/1/aurelien-gorguet/hubspot-sales-hub-software" title="HubSpot Sales Hub Software">
-    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/685ce1a6b2bb4cedb25a9ca3c5e5c8c7.png" alt="HubSpot Sales Hub Software Badge" style="width: 160px; height: auto;" />
-  </a>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://app.hubspot.com/academy/achievements/3rn6f24p/en/1/aurelien-gorguet/hubspot-sales-hub-software" target="_blank" rel="noreferrer">
+          <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/685ce1a6b2bb4cedb25a9ca3c5e5c8c7.png" alt="HubSpot Sales Hub Software Badge" width="160" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://app.hubspot.com/academy/achievements/bwjwdkt3/en/1/aurelien-gorguet/inbound" target="_blank" rel="noreferrer">
+          <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/4e0f51bfc5f74c23bb33e3e1c0a9825a.png" alt="Inbound Badge" width="160" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-<!-- End: HubSpot Academy - HubSpot Sales Hub Software Badge -->
 
-- [HubSpot Reporting & Analytics Certification](https://academy.hubspot.com/courses/hubspot-reporting)
-- [HubSpot Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
-- [CRM Data Migration Certification](https://academy.hubspot.com/courses/CRM-Data-Migration-Certification)
-- [HubSpot Architecture I](https://www.hubspot.com/partnercredentials/solutionsarchitecturedesignaccreditation)
-- [Integrating With HubSpot I : Foundations](https://academy.hubspot.com/courses/integrating-with-hubspot-foundations)
-- [Solutions Architecture Foundations](https://academy.hubspot.com/courses/solutions-architecture-foundations)
-- [Revenue Operations](https://academy.hubspot.com/courses/revenue-operations)
+
 
 
 <h3 align="center">🎓 AWS Professional Certifications :</h3>
