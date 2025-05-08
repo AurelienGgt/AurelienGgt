@@ -141,15 +141,7 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 <h3 align="center">🎓 Oracle Professional Certifications :</h3>
 
-**Free until 15th May**
-  
-
-- [Become An Oracle APEX Developer Professional](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional/146080)
-- [Become an Oracle Fusion Cloud Applications CX Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-cx-foundations-associate/146887)
-- [Become an Oracle Fusion Cloud Applications HCM Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-hcm-foundations-associate/146869)
-- [Become an Oracle Fusion Cloud Applications ERP Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-erp-foundations-associate/146907)
 - [Become an OCI Foundations Associate (2024)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2024-localized-exams/139374)
-- [Become an Oracle AI Vector Search Professional](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-ai-vector-search-professional/144854)
 
 <h3 align="center">🎓 Hubspot Professional Certifications :</h3>
 
