@@ -141,7 +141,7 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 <h3 align="center">🎓 Oracle Professional Certifications :</h3>
 
-- [Become an OCI Foundations Associate (2024)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2024-localized-exams/139374)
+- [Become an OCI Foundations Associate (2025)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056)
 
 <h3 align="center">🎓 Hubspot Professional Certifications :</h3>
 
