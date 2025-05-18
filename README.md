@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! 👋 I'm Aurelien</h1>
 
 <div align="center">
-  <h2>🚀 CRM Admin | Domain Administrator | IT & Data Specialist</h2>
+  <h2>🚀 CRM Admin & Analyst | IT & Data Specialist</h2>
   <p>
     With a <strong>EQF Level 6 in Data Analysis</strong> and a <strong>EQF Level 7 in Machine Learning & Data Science</strong>, along with professional experience in <strong>Technical Support for Antivirus Software</strong> and as a <strong>CRM Analyst</strong> & <strong>Domain Administrator</strong>, I optimize CRM systems and IT infrastructure to drive strategic excellence in dynamic environments.
   </p>
@@ -167,9 +167,9 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 <h3 align="center">🎓 AWS Professional Certifications :</h3>
 
-Free certification until August 2025 : [Link](https://www.awseducate.com/)
+Free certification until September 2025 : [Link](https://www.awseducate.com/)
 
-- [AWS AI practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
+- [AWS AI practitioner (New certification 2025)](https://aws.amazon.com/certification/certified-ai-practitioner/)
 - [AWS solution architect associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 ---
 
