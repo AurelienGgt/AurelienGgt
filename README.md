@@ -92,13 +92,6 @@ I continuously upgrade my skills with various online courses. These are some of 
 - **Course**: [Google IT Support by Coursera](https://www.coursera.org/professional-certificates/google-it-support)
 - **Certification Link**: [Google IT Support](https://www.credly.com/earner/earned/badge/de4ae72e-2fcd-48c5-9966-ad31974058ef)
 
-<h3 align="center">📚  Google Cybersecurity by Coursera :</h3>
-
-- **Description**: Learning cybersecurity fundamentals, including network security, risk management, and threat detection with practical labs.
-- **Course**: [Google Cybersecurity by Coursera](https://www.coursera.org/programs/google-ateliers-numeriques-7uvyv/professional-certificates/google-cybersecurity?collectionId=0yhy3)
-- **Certification Link**: [Google Cybersecurity](In progress)
-
-
 ---
 
 <h1 align="center">🏆 Featured Projects : </h1>
