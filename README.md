@@ -92,6 +92,20 @@ I continuously upgrade my skills with various online courses. These are some of 
 - **Course**: [Google IT Support by Coursera](https://www.coursera.org/professional-certificates/google-it-support)
 - **Certification Link**: [Google IT Support](https://www.credly.com/earner/earned/badge/de4ae72e-2fcd-48c5-9966-ad31974058ef)
 
+
+
+<h3 align="center">📘 Columbia University – Courseworks :</h3>
+
+- **Course**: [Foundations of Behavioral Science](https://courseworks2.columbia.edu/courses/209763)  
+  **Description**: Core concepts in behavioral science, exploring decision-making, psychology, and human behavior in organizational and societal contexts.
+
+- **Course**: [Learning AI Through Visualization](https://courseworks2.columbia.edu/courses/199597)  
+  **Description**: Understanding artificial intelligence and machine learning through intuitive, visual approaches to algorithms and data structures.
+
+- **Course**: [Quantitative Techniques](https://courseworks2.columbia.edu/courses/177103)  
+  **Description**: Introduction to statistical and mathematical techniques used for data analysis, modeling, and decision-making in business and research.
+
+
 ---
 
 <h1 align="center">🏆 Featured Projects : </h1>
