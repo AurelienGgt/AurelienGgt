@@ -105,7 +105,8 @@ I continuously upgrade my skills with various online courses. These are some of 
 - **Course**: [Quantitative Techniques](https://courseworks2.columbia.edu/courses/177103)  
   **Description**: Introduction to statistical and mathematical techniques used for data analysis, modeling, and decision-making in business and research.
 
-
+- **Course**: [Databricks Fundamentals](https://credentials.databricks.com/group/547441)  
+  **Description**: Earners of the Databricks Fundamentals accreditation have demonstrated the understanding of fundamental concepts related to Databricks Data Intelligence Platform.
 ---
 
 <h1 align="center">🏆 Featured Projects : </h1>
