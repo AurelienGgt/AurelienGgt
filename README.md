@@ -33,7 +33,6 @@
 <code><img height="60" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="60" alt="excel" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"></code>
 <code><img height="60" alt="Power BI" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"></code>
-<code><img height="60" alt="Knime" src="https://cybertrend-intra.com/wp-content/uploads/2023/01/knime.jpg"></code>
 </p>
 
 ---
@@ -62,7 +61,7 @@ This program trains you to design predictive models and autonomous systems by bl
 I continuously upgrade my skills with various online courses. These are some of the training projects I have completed as part of my learning journey:
 </p>
 
-
+<h3 align="center">📚  Coursera – Courseworks :</h3>
  
 <table>
   <tr>
@@ -79,18 +78,12 @@ I continuously upgrade my skills with various online courses. These are some of 
   </tr>
 </table>
 
-
-<h3 align="center">📚  Google Data Analytics by Coursera :</h3>
-
-- **Description**: Applied data analytics techniques on real-world datasets, covering data cleaning, analysis, and visualization, using tools like SQL, R, and spreadsheets.
 - **Course**: [Google Data Analytics by Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
-- **Certification Link**: [Google Data Analytics](https://www.credly.com/earner/earned/badge/b1b94bbb-55bc-4df5-a372-960fb529a17e)
+- **Description**: Applied data analytics techniques on real-world datasets, covering data cleaning, analysis, and visualization, using tools like SQL, R, and spreadsheets.
 
-<h3 align="center">📚  Google IT Support by Coursera :</h3>
-
-- **Description**: Learning IT support fundamentals, including networking, system administration, and troubleshooting with practical labs.
 - **Course**: [Google IT Support by Coursera](https://www.coursera.org/professional-certificates/google-it-support)
-- **Certification Link**: [Google IT Support](https://www.credly.com/earner/earned/badge/de4ae72e-2fcd-48c5-9966-ad31974058ef)
+- **Description**: Learning IT support fundamentals, including networking, system administration, and troubleshooting with practical labs.
+
 
 
 
@@ -104,6 +97,8 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 - **Course**: [Quantitative Techniques](https://courseworks2.columbia.edu/courses/177103)  
   **Description**: Introduction to statistical and mathematical techniques used for data analysis, modeling, and decision-making in business and research.
+
+  <h3 align="center">📘 Databricks – Courseworks :</h3>
 
 - **Course**: [Databricks Fundamentals](https://credentials.databricks.com/group/547441)  
   **Description**: Earners of the Databricks Fundamentals accreditation have demonstrated the understanding of fundamental concepts related to Databricks Data Intelligence Platform.
@@ -139,17 +134,12 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 <h1 align="center">🎓 Professional Certifications :</h1>
 
-<!-- Begin: KNIME L1 Badge -->
-<div class="academy-badge" align="center">
-  <a href="https://www.credly.com/badges/225e8355-77e3-4a3c-9bb1-e3ce3a756219" title="KNIME L1 Certification">
-    <img src="https://images.credly.com/size/340x340/images/ba8f2415-703b-4d41-a850-5aecbabd5cf4/L1_Large.png" alt="HubSpot Sales Hub Software Badge" style="width: 80px; height: auto;" />
-  </a>
-</div>
-<!-- End: KNIME L1 Badge -->
-
 <h3 align="center">🎓 Oracle Professional Certifications :</h3>
 
-- [Become an OCI Foundations Associate (2025)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056)
+- [Become an OCI Foundations Associate (2025)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056) - (IN PROGRESS)
+- [Become an OCI Data Science (2025)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-data-science-professional-2025/148474) - (IN PROGRESS)
+- [Become an OCI Generative AI professional (2025)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-generative-ai-professional-2025/147863) - (IN PROGRESS)
+- [Become an OCI Generative AI professional (2025)](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-ai-vector-search-professional/144854) - (IN PROGRESS)
 
 <h3 align="center">🎓 Hubspot Professional Certifications :</h3>
 
@@ -177,8 +167,7 @@ I continuously upgrade my skills with various online courses. These are some of 
 
 Free certification until September 2025 : [Link](https://www.awseducate.com/)
 
-- [AWS AI practitioner (New certification 2025)](https://aws.amazon.com/certification/certified-ai-practitioner/)
-- [AWS solution architect associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [AWS AI practitioner (New certification 2025 - (IN PROGRESS)](https://aws.amazon.com/certification/certified-ai-practitioner/)
 ---
 
 *Currently diving deep into Data Engineering projects and sharpening my skills in data analysis and visualization!*
