@@ -1,173 +1,109 @@
-<!-- (Note: GitHub README ne permet pas l'insertion de meta tags, mais nous pouvons optimiser le contenu textuel et les attributs alt pour le SEO.) -->
+<!-- Optimized content and alt‑text for improved SEO -->
 
-<h1 align="center">Hi there! 👋 I'm Aurelien</h1>
+<h1 align="center">👋 Hi there, I'm Aurélien Gorguet </h1>
 
 <div align="center">
-  <h2>🚀 CRM Admin & Analyst | IT & Data Specialist</h2>
+  <h2>🚀 CRM Admin & Analyst • IT & Data Specialist</h2>
   <p>
-    With a <strong>EQF Level 6 in Data Analysis</strong> and a <strong>EQF Level 7 in Machine Learning & Data Science</strong>, along with professional experience in <strong>Technical Support for Antivirus Software</strong> and as a <strong>CRM Analyst</strong> & <strong>Domain Administrator</strong>, I optimize CRM systems and IT infrastructure to drive strategic excellence in dynamic environments.
+    🎓 Holding an <strong>EQF Level 6 in Data Analysis</strong> and <strong>EQF Level 7 in Machine Learning & Data Science</strong>,  
+    with professional experience in <strong>Technical Support for Antivirus Software</strong> and as a <strong>CRM Analyst / Domain Admin</strong>.  
+    I optimize CRM systems and IT infrastructure to drive strategic growth in international environments.
   </p>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/EQF%20Data%20Analysis-Level%206-blue" alt="EQF Level 6">
-  <img src="https://img.shields.io/badge/EQF%20Machine%20Learning-Level%207-green" alt="EQF Level 7">
-  <img src="https://img.shields.io/badge/CRM_Analyst-%F0%9F%92%BB-orange" alt="CRM Admin">
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/EQF%20Data%20Analysis-Level%206-blue" alt="EQF Level 6 Data Analysis">
+  <img src="https://img.shields.io/badge/EQF%20Machine%20Learning-Level%207-green" alt="EQF Level 7 Machine Learning">
+  <img src="https://img.shields.io/badge/CRM_Analyst-%F0%9F%92%BB-orange" alt="CRM Analyst">
   <img src="https://img.shields.io/badge/Technical support-%F0%9F%92%BB-yellow" alt="Technical Support">
 </div>
 
-
 ---
 
-<h1 align="center">📫 Connect with Me : </h1>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aurélien-gorguet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aurelien-Gorguet" height="30" width="40" /></a>
-
----
-
-<h1 align="center">🔧 Tech Stack : </h1>
-
-<p align="center">
-<code><img height="60" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="60" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="60" alt="excel" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"></code>
-<code><img height="60" alt="Power BI" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"></code>
-</p>
-
----
-
-<h1 align="center">🎓 Formations : </h1>
-
-<h2 align="center"> Data Analyst Formation :</h2>
-
-
-[**Website**](https://openclassrooms.com/fr/paths/324-data-analyst) - [**Projects Folder**](https://github.com/AurelienGgt/Data-Analyst-Formation)  - [**Link of the degree**](https://www.linkedin.com/in/aurélien-gorguet/overlay/education/714039642/multiple-media-viewer?profileId=ACoAADUe15oBgxCNk2J6PSV4APhhQPAlUF-BnPU&treasuryMediaId=1635495790653&type=DOCUMENT&locale=en_US&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list%3BHZi9ux7gT6aufPqLUqQShA%3D%3D) 
-
-
-The Data Analyst program at OpenClassrooms teaches you how to collect, clean, analyze, and visualize data to support business decision-making. Key skills include Python, SQL, and data visualization tools. Practical projects cover market segmentation and sales analysis, preparing you for real-world data challenges.
-
-<h2 align="center"> Machine Learning Engineer Formation :</h2>
-
-[**Website**](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning) - [**Projects Folder**](https://github.com/AurelienGgt/Machine-Learning-Engineer-formation) - [**Link of the degree**](https://www.linkedin.com/in/aurélien-gorguet/overlay/education/787295248/multiple-media-viewer?profileId=ACoAADUe15oBgxCNk2J6PSV4APhhQPAlUF-BnPU&treasuryMediaId=1635543986567&type=DOCUMENT&locale=en_US&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BlFGY6%2BbtTLq%2F3aJZFUQN2Q%3D%3D) 
-
-This program trains you to design predictive models and autonomous systems by blending data science and software development. You’ll learn to build machine learning and deep learning algorithms, deploy models using cloud services, and implement MLOps practices. Hands-on projects include recommendation engines and predictive systems.
-
----
-
-<h1 align="center">📚 Training Courses : </h1>
-
-<p align="center">
-I continuously upgrade my skills with various online courses. These are some of the training projects I have completed as part of my learning journey:
-</p>
-
-<h3 align="center">📚  Coursera – Courseworks :</h3>
- 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="120" height= auto/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/size/110x110/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support" width="120" height= auto/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-- **Course**: [Google Data Analytics by Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
-- **Description**: Applied data analytics techniques on real-world datasets, covering data cleaning, analysis, and visualization, using tools like SQL, R, and spreadsheets.
-
-- **Course**: [Google IT Support by Coursera](https://www.coursera.org/professional-certificates/google-it-support)
-- **Description**: Learning IT support fundamentals, including networking, system administration, and troubleshooting with practical labs.
-
-
-
-
-<h3 align="center">📘 Columbia University – Courseworks :</h3>
-
-- **Course**: [Foundations of Behavioral Science](https://courseworks2.columbia.edu/courses/209763)  
-  **Description**: Core concepts in behavioral science, exploring decision-making, psychology, and human behavior in organizational and societal contexts.
-
-- **Course**: [Learning AI Through Visualization](https://courseworks2.columbia.edu/courses/199597)  
-  **Description**: Understanding artificial intelligence and machine learning through intuitive, visual approaches to algorithms and data structures.
-
-- **Course**: [Quantitative Techniques](https://courseworks2.columbia.edu/courses/177103)  
-  **Description**: Introduction to statistical and mathematical techniques used for data analysis, modeling, and decision-making in business and research.
-
-  <h3 align="center">📘 Databricks – Courseworks :</h3>
-
-- **Course**: [Databricks Fundamentals](https://credentials.databricks.com/group/547441)  
-  **Description**: Earners of the Databricks Fundamentals accreditation have demonstrated the understanding of fundamental concepts related to Databricks Data Intelligence Platform.
----
-
-<h1 align="center">🏆 Featured Projects : </h1>
-
-<h3 align="center"> 🏆 Customer Personality Analysis :</h3>
-
-- **Description**: A machine learning project analyzing customer behavior to optimize marketing strategies.
-- **Dataset**: [Customer Personality Analysis on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
-- **Project Link**: [Customer Personality Analysis](https://github.com/AurelienGgt/Customer-Personality-Analysis)
-
-<h3 align="center"> 🏆 Ghouls, Goblins, and Ghosts - Boo! :</h3>
-
-- **Description**: A data analysis project on ghostly behavior data.
-- **Dataset**: [Ghouls, Goblins, and Ghosts - Boo! on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
-- **Project Link**: [Ghouls, Goblins, and Ghosts - Boo!](https://github.com/AurelienGgt/ghouls-goblins-and-ghosts-boo)
-
-<h3 align="center"> 🏆 Gamelytics Mobile Analytics Challenge :</h3>
-
-- **Description**: An analysis of mobile gaming behavior and player engagement.
-- **Dataset**: [Gamelytics Mobile Analytics Challenge on Kaggle](https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge/code)
-- **Project Link**: [Gamelytics Mobile Analytics Challenge](https://github.com/AurelienGgt/Gamelytics_Mobile_Analytics_Challenge)
-
-<h3 align="center"> 🏆 Customer Support Efficiency Enhancement :</h3>
-
-- **Description**: An analysis of customer support efficiency.
-- **Dataset**: [Customer Support Efficiency Enhancement on Kaggle](https://www.kaggle.com/datasets/suvroo/customer-support-enhancing-efficiency)
-- **Project Link**: [Customer Support Efficiency Enhancement](https://github.com/AurelienGgt/Customer-Support-Enhancing-Efficiency)
-
----
-
-<h1 align="center">🎓 Professional Certifications :</h1>
-
-<h3 align="center">🎓 Oracle Professional Certifications :</h3>
-
-- [Become an OCI Foundations Associate (2025)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056) - (IN PROGRESS)
-- [Become an OCI Data Science (2025)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-data-science-professional-2025/148474) - (IN PROGRESS)
-- [Become an OCI Generative AI professional (2025)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-generative-ai-professional-2025/147863) - (IN PROGRESS)
-- [Become an OCI Generative AI professional (2025)](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-ai-vector-search-professional/144854) - (IN PROGRESS)
-
-<h3 align="center">🎓 Hubspot Professional Certifications :</h3>
-
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://app.hubspot.com/academy/achievements/3rn6f24p/en/1/aurelien-gorguet/hubspot-sales-hub-software" target="_blank" rel="noreferrer">
-          <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/685ce1a6b2bb4cedb25a9ca3c5e5c8c7.png" alt="HubSpot Sales Hub Software Badge" width="160" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://app.hubspot.com/academy/achievements/bwjwdkt3/en/1/aurelien-gorguet/inbound" target="_blank" rel="noreferrer">
-          <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/4e0f51bfc5f74c23bb33e3e1c0a9825a.png" alt="Inbound Badge" width="160" />
-        </a>
-      </td>
-    </tr>
-  </table>
+## 📫 Connect with Me  
+<div align="center">
+  <a href="https://www.linkedin.com/in/aurélien-gorguet/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn Profile" width="40" height="40">
+  </a>
 </div>
 
-
-
-
-<h3 align="center">🎓 AWS Professional Certifications :</h3>
-
-Free certification until September 2025 : [Link](https://www.awseducate.com/)
-
-- [AWS AI practitioner (New certification 2025 - (IN PROGRESS)](https://aws.amazon.com/certification/certified-ai-practitioner/)
 ---
 
-*Currently diving deep into Data Engineering projects and sharpening my skills in data analysis and visualization!*
+## 🔧 Tech Stack  
+<p align="center">
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" height="60"></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" height="60"></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel logo" height="60"></code>
+  <code><img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="Power BI logo" height="60"></code>
+</p>
+
+---
+
+## 🎓 Education & Certifications  
+
+### 🧠 RNCP Diplomas (OpenClassrooms)  
+- **Data Analyst – EQF Level 6** (2021)  
+- **Machine Learning Engineer – EQF Level 7** (2022)  
+
+### 📚 Other Certifications & Courses  
+| Year | Certification | Platform |
+|------|----------------|------------|
+| 2024 | Google Data Analytics | [Link](https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url) |
+| 2024 | Google IT Support | [Link](https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url) |
+| 2025 | Databricks Fundamentals Accreditation | Databricks |
+| 2025 | HubSpot Sales & Inbound Certifications | HubSpot Academy |
+| 2025 | **AWS AI Practitioner** *(planned)* | AWS Educate |
+| 2025 | **Oracle Analytics Cloud – Professional** *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-analytics-cloud-professional/148482) |
+| 2025 | **OCI Data Science – Professional** *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oci-data-science-professional-2025/148474) |
+| 2025 | **MySQL HeatWave – Associate** *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-a-mysql-heatwave-implementation-associate-2025/148051) |
+| 2025 | **OCI AI Foundations – Associate** *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate/146517) |
+| 2025 | **Oracle Data Platform Foundations – Associate** *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-data-platform-foundations-associate-2025/148375) |
+
+---
+
+## 🏆 Highlighted Projects  
+
+### **Customer Personality Analysis**  
+🔗 [GitHub Repo](https://github.com/AurelienGgt/Customer-Personality-Analysis) | Dataset from Kaggle  
+➡️ ML project analyzing customer behavior to optimize marketing strategies.
+
+### **Ghouls, Goblins, and Ghosts – Boo!**  
+🔗 [GitHub Repo](https://github.com/AurelienGgt/ghouls-goblins-and-ghosts-boo)  
+➡️ Fun, exploratory data analysis and visualization on whimsical “paranormal” dataset.
+
+### **Gamelytics Mobile Analytics Challenge**  
+🔗 [GitHub Repo](https://github.com/AurelienGgt/Gamelytics_Mobile_Analytics_Challenge)  
+➡️ In-depth analysis of mobile gaming behavior and player engagement trends.
+
+### **Customer Support Efficiency Enhancement**  
+🔗 [GitHub Repo](https://github.com/AurelienGgt/Customer-Support-Enhancing-Efficiency)  
+➡️ Analytics review of support response times and productivity improvements.
+
+---
+
+## 🌱 Currently Diving Into  
+- Data Science projects and pipelines  
+- Advanced Power BI visualizations and SQL  
+- CRM‑centric ML models (e.g. churn prediction, LTV scoring)
+
+---
+
+## 🎯 2025–2027 Roadmap  
+
+- ✅ Build **CRM → Power BI dashboards** with real or simulated data  
+- ✅ Develop **ML models** tailored to CRM (churn, segmentation)  
+- ✅ Earn **AWS / Oracle cloud certifications**  
+- ✅ Launch **personal portfolio** (GitHub + Power BI Online)  
+- ✅ Finalize **CV & LinkedIn** targeting Italian / remote roles  
+
+---
+
+### 📌 Want to see my portfolio in action or learn how I built these projects?  
+Feel free to explore my repositories or drop me a message—I’d love to share insights or chat about CRM, data, or AI! 😊
+
+---
+
+*“Data is the heartbeat of modern CRM. I build the analytics that give it a pulse.”*
+
+---
