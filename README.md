@@ -54,12 +54,12 @@
 | 2025 | Databricks Fundamentals Accreditation | Databricks | n/a
 | 2025 | HubSpot Sales Hub Software Certification | HubSpot Academy | Valid from 12/03/2025 to 11/04/2026
 | 2025 | Hubspot Inbound Certification| HubSpot Academy | Valid from 03/05/2025 to 02/06/2027
-| 2025 | **AWS AI Practitioner** *(planned)* | AWS Educate | n/a
-| 2025 | **Oracle Analytics Cloud – Professional** *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-analytics-cloud-professional/148482) | n/a
-| 2025 | **OCI Data Science – Professional** *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oci-data-science-professional-2025/148474) | n/a
-| 2025 | **MySQL HeatWave – Associate** *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-a-mysql-heatwave-implementation-associate-2025/148051) | n/a
-| 2025 | **OCI AI Foundations – Associate** *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate/146517) | n/a
-| 2025 | **Oracle Data Platform Foundations – Associate** *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-data-platform-foundations-associate-2025/148375) | n/a
+| 2025 | AWS AI Practitioner *(planned)* | AWS Educate | n/a
+| 2025 | OCI 2025 Foundations Associate (1Z0-1085-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056) | n/a
+| 2025 | Data Platform 2025 Foundations Associate (1Z0-1195-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-data-platform-foundations-associate-2025/148375) | n/a
+| 2025 | OCI 2025 Generative AI Professional (1Z0-1127-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oci-generative-ai-professional-2025/147863) | n/a
+| 2025 | Oracle Analytics Cloud 2025 Professional (1Z0-1041-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-analytics-cloud-professional/148482) | n/a
+
 
 ---
 
