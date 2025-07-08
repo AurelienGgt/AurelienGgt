@@ -20,7 +20,8 @@
 
 ---
 
-## 📫 Connect with Me  
+<h2 align="center"> 📫 Connect with Me  : </h2>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/aurélien-gorguet/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
@@ -30,28 +31,39 @@
 
 ---
 
-## 🔧 Tech Stack  
-<p align="center">
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" height="60"></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" height="60"></code>
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel logo" height="60"></code>
-  <code><img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="Power BI logo" height="60"></code>
-</p>
+<h2 align="center"> 🔧 Tech Stack  : </h2>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" style="margin: 0 15px;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" style="margin: 0 15px;"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="50" style="margin: 0 15px;"> 
+  <img src="https://img.icons8.com/color/480/power-bi.png" alt="Power BI" width="50" style="margin: 0 15px;"> </p>
 
 ---
 
-## 🎓 Education & Certifications  
+<h2 align="center"> 🔧 🎓 Education & Certifications  : </h2> 
 
-### 🧠 RNCP Diplomas (OpenClassrooms)  
-- **Data Analyst – EQF Level 6** (2021)  
-- **Machine Learning Engineer – EQF Level 7** (2022)  
+### 🧠 EQF (European Qualifications Framework) :
 
-### 📚 Other Certifications & Courses  
+
+| Year | Certification | School | level | 
+|------|----------------|------------|------------|
+| 2022 |  **Data Analyst** | **OpenClassrooms** with partnership : **ENSIAE** | EQF 6 - Bachelor | 
+| 2023 | **Machine Learning Engineer** | **OpenClassrooms** with partnership : **Centrale Supelec** | EQF 7 - Master | 
+
+------------------------------------------------------------------------------------------------------------
+
+### 📚 Non professionnal certificate : 
 | Year | Certification | Platform | Duration | 
 |------|----------------|------------|------------|
 | 2024 | Google Data Analytics | [Coursera](https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url) | n/a
 | 2024 | Google IT Support | [Coursera](https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url) | n/a
 | 2025 | Databricks Fundamentals Accreditation | Databricks | n/a
+
+------------------------------------------------------------------------------------------------------------
+
+### 📚 Professionnal certificate : 
+| Year | Certification | Platform | Duration | 
+|------|----------------|------------|------------|
 | 2025 | HubSpot Sales Hub Software Certification | HubSpot Academy | Valid from 12/03/2025 to 11/04/2026
 | 2025 | Hubspot Inbound Certification| HubSpot Academy | Valid from 03/05/2025 to 02/06/2027
 | 2025 | AWS AI Practitioner *(planned)* | AWS Educate | n/a
@@ -60,10 +72,7 @@
 | 2025 | OCI 2025 Generative AI Professional (1Z0-1127-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oci-generative-ai-professional-2025/147863) | n/a
 | 2025 | Oracle Analytics Cloud 2025 Professional (1Z0-1041-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-analytics-cloud-professional/148482) | n/a
 
-
----
-
-## 🏆 Highlighted Projects  
+ h2 align="center"> 🏆 Highlighted Projects  : </h2> 
 
 ### **Customer Personality Analysis**  
 🔗 [GitHub Repo](https://github.com/AurelienGgt/Customer-Personality-Analysis) | Dataset from Kaggle  
@@ -83,20 +92,19 @@
 
 ---
 
-## 🌱 Currently Diving Into  
+<h2 align="center"> 🌱 Currently Diving Into  : </h2>
 - Data Science projects and pipelines  
 - Advanced Power BI visualizations and SQL  
 - CRM‑centric ML models (e.g. churn prediction, LTV scoring)
 
 ---
 
-## 🎯 2025–2027 Roadmap  
+<h2 align="center"> 🎯  Roadmap for 2025  : </h2>
 
 - ✅ Build **CRM → Power BI dashboards** with real or simulated data  
-- ✅ Develop **ML models** tailored to CRM (churn, segmentation)  
-- ✅ Earn **AWS / Oracle cloud certifications**  
-- ✅ Launch **personal portfolio** (GitHub + Power BI Online)  
-- ✅ Finalize **CV & LinkedIn** 
+- ✅ Develop **ML models from real data** tailored to CRM (churn, segmentation)  
+- ✅ Earn **AWS & Oracle certifications**  
+- ✅ Make **personal project** 
 
 ---
 
