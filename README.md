@@ -72,7 +72,7 @@
 | 2025 | OCI 2025 Generative AI Professional (1Z0-1127-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oci-generative-ai-professional-2025/147863) | n/a
 | 2025 | Oracle Analytics Cloud 2025 Professional (1Z0-1041-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-analytics-cloud-professional/148482) | n/a
 
- h2 align="center"> 🏆 Highlighted Projects  : </h2> 
+ <h2 align="center"> 🏆 Highlighted Projects  : </h2> 
 
 ### **Customer Personality Analysis**  
 🔗 [GitHub Repo](https://github.com/AurelienGgt/Customer-Personality-Analysis) | Dataset from Kaggle  
