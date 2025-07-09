@@ -46,21 +46,44 @@
 
 <h2 align="center"> 🔧 🎓 Education & Certifications  : </h2> 
 
-### 🧠 EQF (European Qualifications Framework) :
+<h3 align="center"> 🧠 EQF (European Qualifications Framework) :  </h3> 
 
+<table>
+  <!-- OpenClassrooms -->
+  <tr>
+    <th colspan="5" align="center">OpenClassrooms</th>
+  </tr>
+  <tr>
+    <th>Year</th>
+    <th>Certification</th>
+    <th>School</th>
+    <th>Level</th>
+    <th>Type</th>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Data Analyst</td>
+    <td>OpenClassrooms × ENSIAE</td>
+    <td>EQF 6 – Bachelor</td>
+    <td>Data Cleaning, Analytics, SQL, Excel, Python</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>Machine Learning Engineer</td>
+    <td>OpenClassrooms × CentraleSupélec</td>
+    <td>EQF 7 – Master</td>
+    <td>ML, Python, Automation</td>
+  </tr>
+</table>
 
-| Year | Certification | School | level | 
-|------|----------------|------------|------------|
-| 2022 |  **Data Analyst** | **OpenClassrooms** with partnership : **ENSIAE** | EQF 6 - Bachelor | 
-| 2023 | **Machine Learning Engineer** | **OpenClassrooms** with partnership : **Centrale Supelec** | EQF 7 - Master | 
 
 ------------------------------------------------------------------------------------------------------------
 
-### 🎓 Non‑Professional Certificates
+<h3 align="center"> 🎓 Non‑Professional Certificates : </h3> 
 
 <table>
   <!-- Google Certificates -->
-  <tr><th colspan="5" align="center">Coursera - Google</th></tr>
+  <tr><th colspan="5" align="center">Coursera </th></tr>
   <tr>
     <th>Year</th>
     <th>Certification</th>
@@ -110,7 +133,7 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-### 📚 Professional Certificates
+<h3 align="center"> e 📚 Professional Certificates : </h3> 
 
 <table>
   <!-- HubSpot Section -->
