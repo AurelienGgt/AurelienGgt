@@ -3,11 +3,15 @@
 <h1 align="center">👋 Hi there, I'm Aurélien Gorguet </h1>
 
 <div align="center">
-  <h2>🚀 CRM Admin & Analyst • IT & Data Specialist</h2>
+  <h2>🚀 CRM Admin & Data Analyst • Power BI & Cloud Enthusiast</h2>
   <p>
-    🎓 Holding an <strong>EQF Level 6 in Data Analysis</strong> and <strong>EQF Level 7 in Machine Learning & Data Science</strong>,  
-    with professional experience in <strong>Technical Support for Antivirus Software</strong> and as a <strong>CRM Analyst / Domain Admin</strong>.  
-    I optimize CRM systems and IT infrastructure to drive strategic growth in international environments.
+    
+🎓 With a EQF level 7 in ML & Data Science — basically, I analyze like an adult, but build models that sometimes feel like wizardry.
+
+📊 I tame CRM systems, automate Excel nightmares, and turn data in Power BI into dashboards that don’t just look pretty — they actually make sense. If your data could speak, I’d make it give a TED Talk.
+
+🧠 I’ve got a soft spot for cloud foundations (OCI, AWS are in progress), and I’m diving into Generative AI—because why let chatbots have all the fun?
+
   </p>
 </div>
 
