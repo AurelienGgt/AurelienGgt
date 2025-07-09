@@ -95,14 +95,14 @@
     <td>2024</td>
     <td><a href="https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url">Google Data Analytics</a></td>
     <td>Coursera / Credly</td>
-    <td>≈187 hours</td>
+    <td>≈ 187 hours</td>
     <td>Data Cleaning, Analytics, SQL, Spreadsheets</td>
   </tr>
   <tr>
     <td>2024</td>
     <td><a href="https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url">Google IT Support</a></td>
     <td>Coursera / Credly</td>
-    <td>120h hours</td>
+    <td>≈ 120h hours</td>
     <td>Technical Support, Troubleshooting</td>
   </tr>
 
@@ -122,7 +122,7 @@
     <td>2025</td>
     <td>Databricks Fundamentals Accreditation</td>
     <td>Databricks Academy</td>
-    <td>≈3hours + 30 min quiz</td>
+    <td>≈ 3hours + 30 min quiz</td>
     <td>Lakehouse Fundamentals, Data + AI</td>
   </tr>
 
@@ -151,21 +151,21 @@
     <td>2025</td>
     <td>Sales Hub Software Certification</td>
     <td>HubSpot Academy</td>
-    <td>Valid 12/03/2025–11/04/2026</td>
+    <td>from : Mar 12 2025 – Mar 11 2026</td>
     <td>CRM, Sales Operations</td>
   </tr>
   <tr>
     <td>2025</td>
     <td>Inbound Certification</td>
     <td>HubSpot Academy</td>
-    <td>Valid 03/05/2025–02/06/2027</td>
+    <td>from : May 03 2025 – Jun 02 2027</td>
     <td>CRM Strategy</td>
   </tr>
   <tr>
     <td>2025</td>
     <td>Reporting</td>
     <td>HubSpot Academy</td>
-    <td>n/a</td>
+    <td>from : Jul 9 2025 - Aug 8 2026</td>
     <td>Reporting, Data Analytics</td>
   </tr>
   <tr>
