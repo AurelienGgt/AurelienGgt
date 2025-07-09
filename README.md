@@ -56,25 +56,185 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-### 📚 Non professionnal certificate : 
-| Year | Certification | Platform | Duration | 
-|------|----------------|------------|------------|
-| 2024 | Google Data Analytics | [Coursera](https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url) | n/a
-| 2024 | Google IT Support | [Coursera](https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url) | n/a
-| 2025 | Databricks Fundamentals Accreditation | Databricks | n/a
+### 🎓 Non‑Professional Certificates
+
+<table>
+  <!-- Google Certificates -->
+  <tr><th colspan="5" align="center">Coursera - Google</th></tr>
+  <tr>
+    <th>Year</th>
+    <th>Certification</th>
+    <th>Platform</th>
+    <th>Duration</th>
+    <th>Type</th>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td><a href="https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url">Google Data Analytics</a></td>
+    <td>Coursera / Credly</td>
+    <td>≈187 hours</td>
+    <td>Data Cleaning, Analytics, SQL, Spreadsheets</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td><a href="https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url">Google IT Support</a></td>
+    <td>Coursera / Credly</td>
+    <td>120h hours</td>
+    <td>Technical Support, Troubleshooting</td>
+  </tr>
+
+  <!-- Spacer -->
+  <tr><td colspan="5">&nbsp;</td></tr>
+
+  <!-- Databricks -->
+  <tr><th colspan="5" align="center">Databricks</th></tr>
+  <tr>
+    <th>Year</th>
+    <th>Certification</th>
+    <th>Platform</th>
+    <th>Duration</th>
+    <th>Type</th>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Databricks Fundamentals Accreditation</td>
+    <td>Databricks Academy</td>
+    <td>≈3hours + 30 min quiz</td>
+    <td>Lakehouse Fundamentals, Data + AI</td>
+  </tr>
+
+  <!-- Spacer -->
+  <tr><td colspan="5">&nbsp;</td></tr>
+</table>
+
 
 ------------------------------------------------------------------------------------------------------------
 
-### 📚 Professionnal certificate : 
-| Year | Certification | Platform | Duration | 
-|------|----------------|------------|------------|
-| 2025 | HubSpot Sales Hub Software Certification | HubSpot Academy | Valid from 12/03/2025 to 11/04/2026
-| 2025 | Hubspot Inbound Certification| HubSpot Academy | Valid from 03/05/2025 to 02/06/2027
-| 2025 | AWS AI Practitioner *(planned)* | AWS Educate | n/a
-| 2025 | OCI 2025 Foundations Associate (1Z0-1085-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056) | n/a
-| 2025 | Data Platform 2025 Foundations Associate (1Z0-1195-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-data-platform-foundations-associate-2025/148375) | n/a
-| 2025 | OCI 2025 Generative AI Professional (1Z0-1127-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oci-generative-ai-professional-2025/147863) | n/a
-| 2025 | Oracle Analytics Cloud 2025 Professional (1Z0-1041-25) *(planned)* | [Oracle Learning](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-analytics-cloud-professional/148482) | n/a
+### 📚 Professional Certificates
+
+<table>
+  <!-- HubSpot Section -->
+  <tr>
+    <th colspan="5" align="center">HubSpot</th>
+  </tr>
+  <tr>
+    <th>Year</th>
+    <th>Certification</th>
+    <th>Platform</th>
+    <th>Duration</th>
+    <th>Type</th>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Sales Hub Software Certification</td>
+    <td>HubSpot Academy</td>
+    <td>Valid 12/03/2025–11/04/2026</td>
+    <td>CRM, Sales Operations</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Inbound Certification</td>
+    <td>HubSpot Academy</td>
+    <td>Valid 03/05/2025–02/06/2027</td>
+    <td>CRM Strategy</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Reporting</td>
+    <td>HubSpot Academy</td>
+    <td>n/a</td>
+    <td>Reporting, Data Analytics</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Revenue Operations</td>
+    <td>HubSpot Academy</td>
+    <td>n/a</td>
+    <td>CRM Operations, Analytics</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Integrating With HubSpot I: Foundations</td>
+    <td>HubSpot Academy</td>
+    <td>n/a</td>
+    <td>CRM Integration</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Marketing Hub Software</td>
+    <td>HubSpot Academy</td>
+    <td>n/a</td>
+    <td>Marketing Automation</td>
+  </tr>
+
+  <!-- Spacer row -->
+  <tr><td colspan="5">&nbsp;</td></tr>
+
+  <!-- AWS Section -->
+  <tr>
+    <th colspan="5" align="center">AWS</th>
+  </tr>
+  <tr>
+    <th>Year</th>
+    <th>Certification</th>
+    <th>Platform</th>
+    <th>Duration</th>
+    <th>Type</th>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>AWS AI Practitioner (planned)</td>
+    <td>AWS Educate</td>
+    <td>n/a</td>
+    <td>AI Fundamentals</td>
+  </tr>
+
+  <!-- Spacer row -->
+  <tr><td colspan="5">&nbsp;</td></tr>
+
+  <!-- Oracle Section -->
+  <tr>
+    <th colspan="5" align="center">Oracle</th>
+  </tr>
+  <tr>
+    <th>Year</th>
+    <th>Certification</th>
+    <th>Platform</th>
+    <th>Duration</th>
+    <th>Type</th>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>OCI Foundations Associate (1Z0-1085-25) (planned)</td>
+    <td>Oracle Learning</td>
+    <td>n/a</td>
+    <td>Cloud Foundations</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Data Platform Foundations Associate (1Z0-1195-25) (planned)</td>
+    <td>Oracle Learning</td>
+    <td>n/a</td>
+    <td>Data Platform</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>OCI Generative AI Professional (1Z0-1127-25) (planned)</td>
+    <td>Oracle Learning</td>
+    <td>n/a</td>
+    <td>Generative AI, Cloud AI</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Oracle Analytics Cloud Professional (1Z0-1041-25) (planned)</td>
+    <td>Oracle Learning</td>
+    <td>n/a</td>
+    <td>Analytics, BI</td>
+  </tr>
+</table>
+
+
+
 
  <h2 align="center"> 🏆 Highlighted Projects  : </h2> 
 
