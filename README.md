@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aurélien !
+<h1 align="left"> 👋 Hi there, I'm Aurélien !</h1>
 
 ---
 
