@@ -1,156 +1,119 @@
-<!-- (Note: GitHub README ne permet pas l'insertion de meta tags, mais nous pouvons optimiser le contenu textuel et les attributs alt pour le SEO.) -->
+<h1 align="center"> 👋 Hi there, I'm Aurélien !</h1>
 
-<h1 align="center">Hi there! 👋 I'm Aurelien</h1>
+---
+
+- 🎓 EQF 7 in ML & Data Science — I build models that sometimes feel like wizardry  
+- 📊 I tame CRM systems, automate Excel nightmares, and turn data in Power BI into dashboards that guide decisions  
+- 🧠 Cloud foundations (OCI & AWS in progress) + diving into Generative AI 🤖  
+
+---
+
+<h2 align="left"> 📫 Connect with Me  :</h2>
 
 <div align="center">
-  <h2>🚀 CRM Admin | Domain Administrator | IT & Data Specialist</h2>
-  <p>
-    With a <strong>EQF Level 6 in Data Analysis</strong> and a <strong>EQF Level 7 in Machine Learning & Data Science</strong>, along with professional experience in <strong>Technical Support for Antivirus Software</strong> and as a <strong>CRM Analyst</strong> & <strong>Domain Administrator</strong>, I optimize CRM systems and IT infrastructure to drive strategic excellence in dynamic environments.
-  </p>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/EQF%20Data%20Analysis-Level%206-blue" alt="EQF Level 6">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Level%207-green" alt="EQF Level 7">
-  <img src="https://img.shields.io/badge/CRM_Admin-%F0%9F%92%BB-orange" alt="CRM Admin">
-</div>
-
-
----
-
-<h1 align="center">📫 Connect with Me : </h1>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aurélien-gorguet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aurelien-Gorguet" height="30" width="40" /></a>
-
----
-
-<h1 align="center">🔧 Tech Stack : </h1>
-
-<p align="center">
-<code><img height="60" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="60" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="60" alt="excel" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"></code>
-<code><img height="60" alt="Power BI" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"></code>
-<code><img height="60" alt="Knime" src="https://cybertrend-intra.com/wp-content/uploads/2023/01/knime.jpg"></code>
-</p>
-
----
-
-<h1 align="center">🎓 Formations : </h1>
-
-<h2 align="center"> Data Analyst Formation :</h2>
-
-[**Website**](https://openclassrooms.com/fr/paths/324-data-analyst) - [**Projects Folder**](https://github.com/AurelienGgt/Data-Analyst-Formation)  - [**Link of the degree**](https://www.linkedin.com/in/aurélien-gorguet/overlay/education/714039642/multiple-media-viewer?profileId=ACoAADUe15oBgxCNk2J6PSV4APhhQPAlUF-BnPU&treasuryMediaId=1635495790653&type=DOCUMENT&locale=en_US&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list%3BHZi9ux7gT6aufPqLUqQShA%3D%3D) 
-
-The Data Analyst program at OpenClassrooms teaches you how to collect, clean, analyze, and visualize data to support business decision-making. Key skills include Python, SQL, and data visualization tools. Practical projects cover market segmentation and sales analysis, preparing you for real-world data challenges.
-
-<h2 align="center"> Machine Learning Engineer Formation :</h2>
-
-[**Website**](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning) - [**Projects Folder**](https://github.com/AurelienGgt/Machine-Learning-Engineer-formation) - [**Link of the degree**](https://www.linkedin.com/in/aurélien-gorguet/overlay/education/787295248/multiple-media-viewer?profileId=ACoAADUe15oBgxCNk2J6PSV4APhhQPAlUF-BnPU&treasuryMediaId=1635543986567&type=DOCUMENT&locale=en_US&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BlFGY6%2BbtTLq%2F3aJZFUQN2Q%3D%3D) 
-
-This program trains you to design predictive models and autonomous systems by blending data science and software development. You’ll learn to build machine learning and deep learning algorithms, deploy models using cloud services, and implement MLOps practices. Hands-on projects include recommendation engines and predictive systems.
-
----
-
-<h1 align="center">📚 Training Courses : </h1>
-
-<p align="center">
-I continuously upgrade my skills with various online courses. These are some of the training projects I have completed as part of my learning journey:
-</p>
-
-
- 
-<p align="center">
-<a href="https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80"/> </a>  
-</p>
-
-- **Description**: Applied data analytics techniques on real-world datasets, covering data cleaning, analysis, and visualization, using tools like SQL, R, and spreadsheets.
-- **Course**: [Google Data Analytics by Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
-- **Certification Link**: [Google Data Analytics](https://www.credly.com/earner/earned/badge/b1b94bbb-55bc-4df5-a372-960fb529a17e)
-
-<h3 align="center">📚  Google IT Support by Coursera :</h3>
-
-- **Description**: Learning IT support fundamentals, including networking, system administration, and troubleshooting with practical labs.
-- **Course**: [Google IT Support by Coursera](https://www.coursera.org/professional-certificates/google-it-support)
-- **Certification Link**: [Google IT Support](In progress)
-
-<h3 align="center">📚  Google Cybersecurity by Coursera :</h3>
-
-- **Description**: Learning cybersecurity fundamentals, including network security, risk management, and threat detection with practical labs.
-- **Course**: [Google Cybersecurity by Coursera](https://www.coursera.org/programs/google-ateliers-numeriques-7uvyv/professional-certificates/google-cybersecurity?collectionId=0yhy3)
-- **Certification Link**: [Google Cybersecurity](In progress)
-
-
----
-
-<h1 align="center">🏆 Featured Projects : </h1>
-
-<h3 align="center"> 🏆 Customer Personality Analysis :</h3>
-
-- **Description**: A machine learning project analyzing customer behavior to optimize marketing strategies.
-- **Dataset**: [Customer Personality Analysis on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
-- **Project Link**: [Customer Personality Analysis](https://github.com/AurelienGgt/Customer-Personality-Analysis)
-
-<h3 align="center"> 🏆 Ghouls, Goblins, and Ghosts - Boo! :</h3>
-
-- **Description**: A data analysis project on ghostly behavior data.
-- **Dataset**: [Ghouls, Goblins, and Ghosts - Boo! on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
-- **Project Link**: [Ghouls, Goblins, and Ghosts - Boo!](https://github.com/AurelienGgt/ghouls-goblins-and-ghosts-boo)
-
-<h3 align="center"> 🏆 Gamelytics Mobile Analytics Challenge :</h3>
-
-- **Description**: An analysis of mobile gaming behavior and player engagement.
-- **Dataset**: [Gamelytics Mobile Analytics Challenge on Kaggle](https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge/code)
-- **Project Link**: [Gamelytics Mobile Analytics Challenge](https://github.com/AurelienGgt/Gamelytics_Mobile_Analytics_Challenge)
-
----
-
-<h1 align="center">🎓 Professional Certifications :</h1>
-
-<!-- Begin: KNIME L1 Badge -->
-<div class="academy-badge" align="center">
-  <a href="https://www.credly.com/badges/225e8355-77e3-4a3c-9bb1-e3ce3a756219" title="KNIME L1 Certification">
-    <img src="https://images.credly.com/size/340x340/images/ba8f2415-703b-4d41-a850-5aecbabd5cf4/L1_Large.png" alt="HubSpot Sales Hub Software Badge" style="width: 80px; height: auto;" />
+  <a href="https://www.linkedin.com/in/aurélien-gorguet/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn Profile" width="40" height="40">
   </a>
 </div>
-<!-- End: KNIME L1 Badge -->
 
-<h3 align="center">🎓 Oracle Professional Certifications :</h3>
-
-**Free until 15th May**
-  
-
-- [Become An Oracle APEX Developer Professional](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional/146080)
-- [Become an Oracle Fusion Cloud Applications CX Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-cx-foundations-associate/146887)
-- [Become an Oracle Fusion Cloud Applications HCM Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-hcm-foundations-associate/146869)
-- [Become an Oracle Fusion Cloud Applications ERP Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-fusion-cloud-applications-erp-foundations-associate/146907)
-- [Become an OCI Foundations Associate (2024)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2024-localized-exams/139374)
-- [Become an Oracle AI Vector Search Professional](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-ai-vector-search-professional/144854)
-
-<h3 align="center">🎓 Hubspot Professional Certifications :</h3>
-
-<!-- Begin: HubSpot Academy - HubSpot Sales Hub Software Badge -->
-<div class="academy-badge" align="center">
-  <a href="https://app.hubspot.com/academy/achievements/3rn6f24p/en/1/aurelien-gorguet/hubspot-sales-hub-software" title="HubSpot Sales Hub Software">
-    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/685ce1a6b2bb4cedb25a9ca3c5e5c8c7.png" alt="HubSpot Sales Hub Software Badge" style="width: 160px; height: auto;" />
-  </a>
-</div>
-<!-- End: HubSpot Academy - HubSpot Sales Hub Software Badge -->
-
-- [HubSpot Reporting & Analytics Certification](https://academy.hubspot.com/courses/hubspot-reporting)
-- [HubSpot Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
-- [CRM Data Migration Certification](https://academy.hubspot.com/courses/CRM-Data-Migration-Certification)
-- [HubSpot Architecture I](https://www.hubspot.com/partnercredentials/solutionsarchitecturedesignaccreditation)
-- [Integrating With HubSpot I : Foundations](https://academy.hubspot.com/courses/integrating-with-hubspot-foundations)
-- [Solutions Architecture Foundations](https://academy.hubspot.com/courses/solutions-architecture-foundations)
-- [Revenue Operations](https://academy.hubspot.com/courses/revenue-operations)
-
-
-<h3 align="center">🎓 AWS Professional Certifications :</h3>
-
-- [AWS AI practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
-- [AWS solution architect associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 ---
 
-*Currently diving deep into Data Engineering projects and sharpening my skills in data analysis and visualization!*
+<h2 align="left"> 🔧 Tech Stack :</h2>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?logo=mysql" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel" />
+  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-DataViz-yellow?logo=power-bi" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws" />
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-Cloud-red?logo=oracle" />
+</p>
+
+---
+
+<details open>
+<summary> <h2 align="left"> 🧠 EQF Certifications :</h2></summary>
+
+| Year | Certification                                                    | Level            | Focus Area                                |
+|:----:|:----------------------------------------------------------------:|:----------------:|:-----------------------------------------:|
+| 2022 | **Data Analyst** (OpenClassrooms × ENSIAE)                       | EQF 6 – Bachelor | Data Cleaning • Analytics • SQL           |
+| 2023 | **Machine Learning Engineer** (OpenClassrooms × CentraleSupélec) | EQF 7 – Master’s | ML • Python • Automation                  |
+</details>
+
+---
+<details open>
+<summary> <h2 align="left"> 🎓 Non‑Professional Certificates :</h2></summary>
+
+| Year | Certification                                                                                                            | Duration    | Focus Area                          |
+|:----:|:------------------------------------------------------------------------------------------------------------------------:|:----------: |:-----------------------------------:|
+| 2025 | [Google Data Analytics](https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url)                   | ≈187 h      | Data Cleaning • SQL • Visualization |
+| 2025 | [Google IT Support](https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url)                       | 120 h       | Tech Support • Troubleshooting      |
+| 2025 | Databricks Fundamentals (Databricks Academy)                                                                             | ≈3 h + quiz | Lakehouse • Data & AI               | 
+</details>
+
+---
+
+<details open>
+<summary><h2 align="left">📚 Professional Certifications :</h2></summary>
+
+| Section      | Year | Certification                                                 | Duration                        | Focus Area                         |
+|:------------:|:----:|:-------------------------------------------------------------:|:-------------------------------:|:----------------------------------:|
+| **HubSpot**  | 2025 | Sales Hub Software Certification                              | 03/12/2025 – 03/11/2026         | CRM • Sales Ops                    |
+|              | 2025 | Inbound Certification                                         | 05/03/2025 – 06/02/2027         | CRM Strategy                       |
+|              | 2025 | Reporting Certification                                       | 07/09/2025 – 08/08/2026         | Dashboarding • Data Analytics      |
+|              | 2025 | Revenue Operations Certification                              | n/a                             | CRM Ops • Cross-Team Analytics     |
+|              | 2025 | Integrating With HubSpot I                                    | n/a                             | API • CRM Integration              |
+|              | 2025 | Marketing Hub Software                                        | n/a                             | Marketing Automation               |
+| **AWS**      | 2025 | AWS AI Practitioner (planned)                                 | n/a                             | AI Fundamentals • Cloud AI         |
+| **Oracle**   | 2025 | OCI Data Science – Professional (1Z0-1110-25) (planned)       | n/a                             | ML Lifecycle • MLOps • ADS SDK     |
+|              | 2025 | Data Platform Foundations Associate (1Z0‑1195‑25) (planned)   | n/a                             | Cloud Data • Architecture          |
+|              | 2025 | OCI Generative AI Professional (1Z0‑1127‑25) (planned)        | n/a                             | GenAI • Prompt Engineering         |
+|              | 2025 | Oracle Analytics Cloud Professional (1Z0‑1041‑25) (planned)   | n/a                             | BI • Data Visualization            |
+| **Microsoft**| 2025 | Power BI Data Analyst (PL-300) (planned)                      | n/a                             | BI • DAX • Dashboarding            |
+| **Scrum.org**| 2025 | PSM I – Professional Scrum Master I (planned)                 | n/a                             | Agile • Scrum • Team Collaboration |
+
+
+</details>
+
+---
+<details open>
+<summary> <h2 align="left"> 🏆 Highlighted Projects :</h2></summary> 
+
+| Project                                         | Description                                           | Link                                                                          |
+|:-----------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------------------------------:|
+| Customer Personality Analysis                   | ML-driven customer segmentation & marketing insights  | [Repo](https://github.com/AurelienGgt/Customer-Personality-Analysis)          |
+| Ghouls, Goblins & Ghosts – Boo!                 | Exploratory data viz on paranormal legends            | [Repo](https://github.com/AurelienGgt/ghouls-goblins-and-ghosts-boo)          |
+| Gamelytics Mobile Analytics Challenge           | Mobile gaming behavior & engagement trends            | [Repo](https://github.com/AurelienGgt/Gamelytics_Mobile_Analytics_Challenge)  |
+| Support Efficiency Enhancement                  | Analytics on support response times & productivity    | [Repo](https://github.com/AurelienGgt/Customer-Support-Enhancing-Efficiency)  |
+
+</details>
+
+---------
+
+<details open>
+<summary> <h2> 🎯 2025 Roadmap</h2></summary> 
+
+<h3>📊 Advanced SQL</h3>
+<p>Refine data manipulation through complex queries (CTEs, window functions), optimization strategies, and relational data modeling.</p>
+
+<h3>🐍 Python for Data Analysis</h3>
+<p>Automate workflows with <code>pandas</code>, build reusable scripts, and use notebooks for efficient exploration and reporting.</p>
+
+<h3>📈 Excel & Power Query</h3>
+<p>Leverage advanced formulas, Power Query for ETL processes, and lightweight automation for business reporting.</p>
+
+<h3>📊 Power BI & DAX</h3>
+<p>Build intuitive data models, master DAX for KPIs and time intelligence, and create compelling dashboards.</p>
+
+<h3>🤖 Generative AI</h3>
+<p>Explore prompt engineering, large language models (LLMs), and integrate AI into business automation workflows.</p>
+
+<h3>📬 CRM Strategy & Automation</h3>
+<p>Optimize customer journeys through segmentation, lead scoring, pipeline automation, and performance analysis.</p>
+
+<h3>☁️ Cloud Fundamentals</h3>
+<p>Strengthen understanding of cloud platforms—identity and access management, serverless compute, storage, and scalable data architecture.</p>
+
+</details>
+
