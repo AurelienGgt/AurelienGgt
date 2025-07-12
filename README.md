@@ -2,8 +2,6 @@
 
 ---
 
-<h2 align="left"> 🚀 CRM Admin & Data Analyst • Power BI & Cloud Enthusiast  :</h2>
-
 - 🎓 EQF 7 in ML & Data Science — I build models that sometimes feel like wizardry  
 - 📊 I tame CRM systems, automate Excel nightmares, and turn data in Power BI into dashboards that guide decisions  
 - 🧠 Cloud foundations (OCI & AWS in progress) + diving into Generative AI 🤖  
@@ -24,8 +22,8 @@
 <h2 align="left"> 🔧 Tech Stack :</h2>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.17-blue?logo=python" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?logo=mysql" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel" />
   <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-DataViz-yellow?logo=power-bi" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws" />
@@ -38,7 +36,7 @@
 <summary> <h2 align="left"> 🧠 EQF Certifications :</h2></summary>
 
 | Year | Certification                                                    | Level            | Focus Area                                |
-|:----:|:-----------------------------------------------------------------|:----------------:|:-----------------------------------------:|
+|:----:|:----------------------------------------------------------------:|:----------------:|:-----------------------------------------:|
 | 2022 | **Data Analyst** (OpenClassrooms × ENSIAE)                       | EQF 6 – Bachelor | Data Cleaning • Analytics • SQL           |
 | 2023 | **Machine Learning Engineer** (OpenClassrooms × CentraleSupélec) | EQF 7 – Master’s | ML • Python • Automation                  |
 </details>
@@ -48,7 +46,7 @@
 <summary> <h2 align="left"> 🎓 Non‑Professional Certificates :</h2></summary>
 
 | Year | Certification                                                                                                            | Duration    | Focus Area                          |
-|:----:|:-------------------------------------------------------------------------------------------------------------------------|:----------: |:------------------------------------|
+|:----:|:------------------------------------------------------------------------------------------------------------------------:|:----------: |:-----------------------------------:|
 | 2025 | [Google Data Analytics](https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url)                   | ≈187 h      | Data Cleaning • SQL • Visualization |
 | 2025 | [Google IT Support](https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url)                       | 120 h       | Tech Support • Troubleshooting      |
 | 2025 | Databricks Fundamentals (Databricks Academy)                                                                             | ≈3 h + quiz | Lakehouse • Data & AI               | 
@@ -60,7 +58,7 @@
 <summary><h2 align="left">📚 Professional Certifications :</h2></summary>
 
 | Section      | Year | Certification                                                 | Duration                        | Focus Area                         |
-|:-------------|:----:|:--------------------------------------------------------------|:-------------------------------:|:-----------------------------------|
+|:------------:|:----:|:-------------------------------------------------------------:|:-------------------------------:|:----------------------------------:|
 | **HubSpot**  | 2025 | Sales Hub Software Certification                              | 03/12/2025 – 03/11/2026         | CRM • Sales Ops                    |
 |              | 2025 | Inbound Certification                                         | 05/03/2025 – 06/02/2027         | CRM Strategy                       |
 |              | 2025 | Reporting Certification                                       | 07/09/2025 – 08/08/2026         | Dashboarding • Data Analytics      |
@@ -68,10 +66,13 @@
 |              | 2025 | Integrating With HubSpot I                                    | n/a                             | API • CRM Integration              |
 |              | 2025 | Marketing Hub Software                                        | n/a                             | Marketing Automation               |
 | **AWS**      | 2025 | AWS AI Practitioner (planned)                                 | n/a                             | AI Fundamentals • Cloud AI         |
-| **Oracle**   | 2025 | OCI Foundations Associate (1Z0‑1085‑25) (planned)             | n/a                             | Cloud Infrastructure               |
+| **Oracle**   | 2025 | OCI Data Science – Professional (1Z0-1110-25) (planned)       | n/a                             | ML Lifecycle • MLOps • ADS SDK     |
 |              | 2025 | Data Platform Foundations Associate (1Z0‑1195‑25) (planned)   | n/a                             | Cloud Data • Architecture          |
 |              | 2025 | OCI Generative AI Professional (1Z0‑1127‑25) (planned)        | n/a                             | GenAI • Prompt Engineering         |
 |              | 2025 | Oracle Analytics Cloud Professional (1Z0‑1041‑25) (planned)   | n/a                             | BI • Data Visualization            |
+| **Microsoft**| 2025 | Power BI Data Analyst (PL-300) (planned)                      | n/a                             | BI • DAX • Dashboarding            |
+| **Scrum.org**| 2025 | PSM I – Professional Scrum Master I (planned)                 | n/a                             | Agile • Scrum • Team Collaboration |
+
 
 </details>
 
@@ -80,7 +81,7 @@
 <summary> <h2 align="left"> 🏆 Highlighted Projects :</h2></summary> 
 
 | Project                                         | Description                                           | Link                                                                          |
-|:------------------------------------------------|:------------------------------------------------------|:------------------------------------------------------------------------------|
+|:-----------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------------------------------:|
 | Customer Personality Analysis                   | ML-driven customer segmentation & marketing insights  | [Repo](https://github.com/AurelienGgt/Customer-Personality-Analysis)          |
 | Ghouls, Goblins & Ghosts – Boo!                 | Exploratory data viz on paranormal legends            | [Repo](https://github.com/AurelienGgt/ghouls-goblins-and-ghosts-boo)          |
 | Gamelytics Mobile Analytics Challenge           | Mobile gaming behavior & engagement trends            | [Repo](https://github.com/AurelienGgt/Gamelytics_Mobile_Analytics_Challenge)  |
