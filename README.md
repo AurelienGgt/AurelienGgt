@@ -17,6 +17,36 @@
   </a>
 </div>
 
+
+<h2 align="left"> 🎖️ Badges :</h2>
+
+<div align="center">
+  <!-- Cloud Categorie : -->
+  <h3>AWS Educate</h3>
+  <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" target="_blank" style="margin: 0 16px;">
+    <img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png"
+         alt="AWS Educate Badge"
+         width="80" height="80">
+  </a>
+
+  <!-- Catégorie Credly -->
+  <h3>Coursera Certifications :</h3>
+  <a href="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" target="_blank" style="margin: 0 16px;">
+    <img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png"
+         alt="Google IT Support Professional Certificate (v2)"
+         width="80" height="80">
+  </a>
+  
+  <a href="\https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" target="_blank" style="margin: 0 8px;">
+    <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"
+         alt="Google Data Analytics Professional Certificate"
+        width="80" height="80">
+  </a>
+  
+</div>
+
+
+
 ---
 
 <h2 align="left"> 🔧 Tech Stack :</h2>
