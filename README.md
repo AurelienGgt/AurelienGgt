@@ -52,12 +52,14 @@
 <h2 align="left"> 🔧 Tech Stack :</h2>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?logo=mysql" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-Data%20Engineering-blue?logo=python" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Data%20Storage-blue?logo=mysql" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-Analytics-green?logo=microsoft-excel" />
   <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-DataViz-yellow?logo=power-bi" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-Cloud-red?logo=oracle" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud%20Services-orange?logo=amazon-aws" />
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-Cloud%20Platform-red?logo=oracle" />
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-CRM%20Automation-blue?logo=salesforce" />
+  <img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-RevOps%20Tools-ff7a59?logo=hubspot" />
 </p>
 
 ---
