@@ -99,12 +99,12 @@
 |               | 2025 | Marketing Hub Software                                      | n/a                           | Marketing Automation              | ★              |
 | **Salesforce**| 2025 | Salesforce Administrator (planned)                          | n/a                           | CRM Administration • Salesforce   | 🌟             |
 | **Microsoft** | 2025 | Power BI Data Analyst (PL-300) (planned)                    | n/a                           | BI • DAX • Dashboarding           | 🌟             |
-|               | 2025 | PL-900 Power Platform Fundamentals                          | n/a                           | Microsoft Power Platform Basics   | ★★★★           |
-| **Oracle**    | 2025 | Oracle Analytics Cloud Professional (1Z0‑1041‑25) (planned) | n/a                           | BI • Data Visualization           | 🌟             |
-|               | 2025 | OCI Data Science – Professional (1Z0-1110-25) (planned)     | n/a                           | ML Lifecycle • MLOps • ADS SDK    | ★★★★           |
-|               | 2025 | Data Platform Foundations Associate (1Z0‑1195‑25) (planned) | n/a                           | Cloud Data • Architecture         | ★★★★           |
-|               | 2025 | OCI Generative AI Professional (1Z0‑1127‑25) (planned)      | n/a                           | GenAI • Prompt Engineering        | ★              |
-| **AWS**       | 2025 | AWS AI Practitioner (planned)                               | n/a                           | AI Fundamentals • Cloud AI        | ★★★★           |
+|               | 2025 | PL-900 Power Platform Fundamentals (planned with power up)  | n/a                           | Microsoft Power Platform Basics   | ★★★★           |
+| **Oracle**    | 2025 | Oracle Analytics Cloud Professional (1Z0‑1041‑25) (planned with free event) | n/a                           | BI • Data Visualization           | 🌟             |
+|               | 2025 | OCI Data Science – Professional (1Z0-1110-25) (planned with free event)     | n/a                           | ML Lifecycle • MLOps • ADS SDK    | ★★★★           |
+|               | 2025 | Data Platform Foundations Associate (1Z0‑1195‑25) (planned with free event) | n/a                           | Cloud Data • Architecture         | ★★★★           |
+|               | 2025 | OCI Generative AI Professional (1Z0‑1127‑25) (planned with free event)      | n/a                           | GenAI • Prompt Engineering        | ★              |
+| **AWS**       | 2025 | AWS AI Practitioner (planned with aws educate)                               | n/a                           | AI Fundamentals • Cloud AI        | ★★★★           |
 |               | 2025 | AWS Security Specialty (planned)                            | n/a                           | Cloud Security • Governance       | ★              |
 | **Scrum.org** | 2025 | PSM I – Professional Scrum Master I (planned)               | n/a                           | Agile • Scrum • Team Collaboration| ★★★★           |
 | **EXIN**      | 2025 | Privacy & Data Protection Foundation (planned)              | n/a                           | GDPR • Data Privacy • Compliance  | ★★★★           |
