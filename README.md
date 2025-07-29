@@ -47,22 +47,31 @@
 
 
 
----
+<h2 align="left">🔧 Tech Stack :</h2>
 
-<h2 align="left"> 🔧 Tech Stack :</h2>
+<h3 align="center">✅ Current skills </h3>
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-Data%20Engineering-blue?logo=python" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Data%20Storage-blue?logo=mysql" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-Analytics-green?logo=microsoft-excel" />
-  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-DataViz-yellow?logo=power-bi" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud%20Services-orange?logo=amazon-aws" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-Cloud%20Platform-red?logo=oracle" />
-  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-CRM%20Automation-blue?logo=salesforce" />
-  <img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-RevOps%20Tools-ff7a59?logo=hubspot" />
-</p>
+<p align="center"> <img alt="Python" src="https://img.shields.io/badge/Python-Data%20Engineering-blue?logo=python" /> 
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Data%20Storage-blue?logo=mysql" /> 
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-Analytics-green?logo=microsoft-excel" /> 
+  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-DataViz-yellow?logo=power-bi" />  
+  <img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-RevOps%20Tools-ff7a59?logo=hubspot" /> 
+  <img alt="CRM Admin" src="https://img.shields.io/badge/CRM-Administrator-blueviolet?logo=crm&logoColor=white" />
+  
+ </p>
 
----
+<h3 align="center">🧩 In progress </h3>
+
+<p align="center"> <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud%20Services-orange?logo=amazon-aws" /> 
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-CRM%20Automation-00a1e0?logo=salesforce" /> 
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud%20Platform-0078d4?logo=microsoft-azure" /> </p>
+
+<h3 align="center"> 🚧 Planned  </h3>
+
+<p align="center"> <img alt="Salesforce Admin" src="https://img.shields.io/badge/Salesforce-Admin%20Cert-00a1e0?logo=salesforce" /> 
+  <img alt="Scrum.org" src="https://img.shields.io/badge/Scrum.org-Agile%20Scrum%20Master-blue?logo=scrumalliance&logoColor=white" />
+  <img alt="EXIN" src="https://img.shields.io/badge/EXIN-Data%20Privacy%20&%20GDPR-lightgrey?logo=exin&logoColor=black" />
+ </p>
 
 <details open>
 <summary> <h2 align="left"> 🧠 EQF Certifications :</h2></summary>
@@ -125,30 +134,4 @@
 </details>
 
 ---------
-
-<details open>
-<summary> <h2> 🎯 2025 Roadmap</h2></summary> 
-
-<h3>📊 Advanced SQL</h3>
-<p>Refine data manipulation through complex queries (CTEs, window functions), optimization strategies, and relational data modeling.</p>
-
-<h3>🐍 Python for Data Analysis</h3>
-<p>Automate workflows with <code>pandas</code>, build reusable scripts, and use notebooks for efficient exploration and reporting.</p>
-
-<h3>📈 Excel & Power Query</h3>
-<p>Leverage advanced formulas, Power Query for ETL processes, and lightweight automation for business reporting.</p>
-
-<h3>📊 Power BI & DAX</h3>
-<p>Build intuitive data models, master DAX for KPIs and time intelligence, and create compelling dashboards.</p>
-
-<h3>🤖 Generative AI</h3>
-<p>Explore prompt engineering, large language models (LLMs), and integrate AI into business automation workflows.</p>
-
-<h3>📬 CRM Strategy & Automation</h3>
-<p>Optimize customer journeys through segmentation, lead scoring, pipeline automation, and performance analysis.</p>
-
-<h3>☁️ Cloud Fundamentals</h3>
-<p>Strengthen understanding of cloud platforms—identity and access management, serverless compute, storage, and scalable data architecture.</p>
-
-</details>
 
