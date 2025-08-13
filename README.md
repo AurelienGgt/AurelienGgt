@@ -100,23 +100,26 @@
 
 | Section       | Year | Certification                                               | Duration                      | Focus Area                        | Priority (1-5) |
 |:-------------:|:----:|:-----------------------------------------------------------:|:-----------------------------:|:---------------------------------:|:--------------:|
-| **HubSpot**   | 2025 | Sales Hub Software Certification                            | 03/12/2025 – 03/11/2026       | CRM • Sales Ops                   | 🌟             |
-|               | 2025 | Reporting Certification                                     | 07/09/2025 – 08/08/2026       | Dashboarding • Data Analytics     | 🌟             |
-|               | 2025 | Inbound Certification                                       | 05/03/2025 – 06/02/2027       | CRM Strategy                      | ★★★★           |
+| **HubSpot**   | 2025 | Sales Hub Software Certification                            | 03/12/2025 – 03/11/2026       | CRM • Sales Ops                   | 🌟             |
+|               | 2025 | Reporting Certification                                     | 07/09/2025 – 08/08/2026       | Dashboarding • Data Analytics     | ★★★            |
+|               | 2025 | Inbound Certification                                       | 05/03/2025 – 06/02/2027       | CRM Strategy                      | ★★★★           |
 |               | 2025 | Revenue Operations Certification                            | n/a                           | CRM Ops • Cross-Team Analytics    | ★★★            |
 |               | 2025 | Integrating With HubSpot I                                  | n/a                           | API • CRM Integration             | ★★★            |
-|               | 2025 | Marketing Hub Software                                      | n/a                           | Marketing Automation              | ★              |
 | **Salesforce**| 2025 | Salesforce Administrator (planned)                          | n/a                           | CRM Administration • Salesforce   | 🌟             |
 | **Microsoft** | 2025 | Power BI Data Analyst (PL-300) (planned)                    | n/a                           | BI • DAX • Dashboarding           | 🌟             |
-|               | 2025 | PL-900 Power Platform Fundamentals (planned with power up)  | n/a                           | Microsoft Power Platform Basics   | ★★★★           |
-| **Oracle**    | 2025 | Oracle Analytics Cloud Professional (1Z0‑1041‑25) (planned with free event) | n/a                           | BI • Data Visualization           | 🌟             |
+|               | 2025 | PL-200 Power Platform Functional Consultant (planned)       | n/a                           | Power Platform • Automation       | ★★★★           |
+|               | 2025 | PL-100 Power Apps App Maker (optional, bundle)              | n/a                           | Low-code App Development          | ★★★            |
+| **Oracle**    | 2025 | Oracle Analytics Cloud Professional (1Z0-1041-25) (planned with free event) | n/a                           | BI • Data Visualization           | 🌟             |
 |               | 2025 | OCI Data Science – Professional (1Z0-1110-25) (planned with free event)     | n/a                           | ML Lifecycle • MLOps • ADS SDK    | ★★★★           |
-|               | 2025 | Data Platform Foundations Associate (1Z0‑1195‑25) (planned with free event) | n/a                           | Cloud Data • Architecture         | ★★★★           |
-|               | 2025 | OCI Generative AI Professional (1Z0‑1127‑25) (planned with free event)      | n/a                           | GenAI • Prompt Engineering        | ★              |
-| **AWS**       | 2025 | AWS AI Practitioner (planned with aws educate)                               | n/a                           | AI Fundamentals • Cloud AI        | ★★★★           |
-|               | 2025 | AWS Security Specialty (planned)                            | n/a                           | Cloud Security • Governance       | ★              |
+|               | 2025 | Data Platform Foundations Associate (1Z0-1195-25) (planned with free event) | n/a                           | Cloud Data • Architecture         | ★★★★           |
+|               | 2025 | OCI Generative AI Professional (1Z0-1127-25) (planned with free event)      | n/a                           | GenAI • Prompt Engineering        | ★★★            |
+|               | 2025 | OCI Cloud Infrastructure Foundations Associate (1Z0-1085-25) (planned with free event) | n/a                           | Cloud Fundamentals                 | ★★★            |
+| **AWS**       | 2025 | AWS AI Practitioner (planned with AWS Educate)              | n/a                           | AI Fundamentals • Cloud AI        | ★★★★           |
+|               | 2025 | AWS Security Specialty (planned)                            | n/a                           | Cloud Security • Governance       | ★★★            |
 | **Scrum.org** | 2025 | PSM I – Professional Scrum Master I (planned)               | n/a                           | Agile • Scrum • Team Collaboration| ★★★★           |
 | **EXIN**      | 2025 | Privacy & Data Protection Foundation (planned)              | n/a                           | GDPR • Data Privacy • Compliance  | ★★★★           |
+
+
 
 </details>
 
