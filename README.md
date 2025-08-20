@@ -17,20 +17,58 @@
   </a>
 </div>
 
----
+<h2 align="left"> 🎖️ Badges :</h2>
 
-<h2 align="left"> 🔧 Tech Stack :</h2>
+<div align="center">
+  <!-- Cloud Category -->
+  <h3>AWS Educate</h3>
+  <a href="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" target="_blank" style="margin: 0 16px;">
+    <img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png"
+         alt="AWS Educate Badge"
+         width="80" height="80">
+  </a>
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?logo=mysql" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel" />
-  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-DataViz-yellow?logo=power-bi" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-Cloud-red?logo=oracle" />
+  <!-- Credly / Coursera -->
+  <h3>Coursera Certifications :</h3>
+  <a href="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" target="_blank" style="margin: 0 16px;">
+    <img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png"
+         alt="Google IT Support Professional Certificate"
+         width="80" height="80">
+  </a>
+  
+  <a href="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" target="_blank" style="margin: 0 8px;">
+    <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"
+         alt="Google Data Analytics Professional Certificate"
+         width="80" height="80">
+  </a>
+</div>
+
+<h2 align="left">🔧 Tech Stack :</h2>
+
+<h3 align="center">✅ Current skills </h3>
+<p align="center"> 
+  <img alt="Python" src="https://img.shields.io/badge/Python-Data%20Engineering-blue?logo=python" /> 
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Data%20Storage-blue?logo=mysql" /> 
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-Analytics-green?logo=microsoft-excel" /> 
+  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-DataViz-yellow?logo=power-bi" />  
+  <img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-RevOps%20Tools-ff7a59?logo=hubspot" /> 
+  <img alt="CRM Admin" src="https://img.shields.io/badge/CRM-Administrator-blueviolet?logo=crm&logoColor=white" />
 </p>
 
----
+<h3 align="center">🧩 In progress </h3>
+<p align="center"> 
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud%20Services-orange?logo=amazon-aws" /> 
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-CRM%20Automation-00a1e0?logo=salesforce" /> 
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud%20Platform-0078d4?logo=microsoft-azure" /> 
+</p>
+
+<h3 align="center"> 🚧 Planned  </h3>
+<p align="center"> 
+  <img alt="Salesforce Admin" src="https://img.shields.io/badge/Salesforce-Admin%20Cert-00a1e0?logo=salesforce" /> 
+  <img alt="Scrum.org" src="https://img.shields.io/badge/Scrum.org-Agile%20Scrum%20Master-blue?logo=scrumalliance&logoColor=white" />
+  <img alt="EXIN" src="https://img.shields.io/badge/EXIN-Data%20Privacy%20&%20GDPR-lightgrey?logo=exin&logoColor=black" />
+</p>
+
 
 <details open>
 <summary> <h2 align="left"> 🧠 EQF Certifications :</h2></summary>
