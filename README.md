@@ -45,35 +45,52 @@
 <details open>
 <summary> <h2 align="left"> 🎓 Non‑Professional Certificates :</h2></summary>
 
-| Year | Certification                                                                                                            | Duration    | Focus Area                          |
-|:----:|:------------------------------------------------------------------------------------------------------------------------:|:----------: |:-----------------------------------:|
-| 2025 | [Google Data Analytics](https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url)                   | ≈187 h      | Data Cleaning • SQL • Visualization |
-| 2025 | [Google IT Support](https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url)                       | 120 h       | Tech Support • Troubleshooting      |
-| 2025 | Databricks Fundamentals (Databricks Academy)                                                                             | ≈3 h + quiz | Lakehouse • Data & AI               | 
+| Year | Certification                                                                                                            | Duration    | Focus Area                          | Priority (1-5) |
+|:----:|:------------------------------------------------------------------------------------------------------------------------:|:----------: |:-----------------------------------:|:--------------:|
+| 2025 | [Google Data Analytics](https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url)                   | ≈ 187 h      | Data Cleaning • SQL • Visualization | ★★★★           |
+| 2025 | [Google IT Support](https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url)                       | ≈ 120 h       | Tech Support • Troubleshooting      | ★★★            |
+| 2025 | Databricks Fundamentals (Databricks Academy)                                                                             | ≈ 3 h + quiz | Lakehouse • Data & AI               | ★★             | 
+| 2025 | IBM Data Science Professional Certificate (Coursera)                                                                     | ≈ 160 h      | Python • Data Analysis • ML • SQL  | ★★★★           |
+| 2025 | Machine Learning (Coursera, Stanford University)                                                                         | ≈ 60 h       | ML fundamentals (Regression, Classification)  | ★★★★           |
+| 2025 | Deep Learning Specialization (Coursera, DeepLearning.AI)                                                                 | ≈ 220 h      | Neural Networks • CNN • RNN        | ★★★★           |
+| 2025 | [Introduction to Cloud Computing (Coursera)](https://www.coursera.org/learn/introduction-to-cloud)                       | ≈ 15 h       | Cloud Fundamentals • AWS & Azure    | ★★★            |
+| 2025 | [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)                        | ≈ 20 h       | Cloud Basics • Compute • Storage    | ★★★            |
+| 2025 | [AI For Everyone (Coursera, Andrew Ng)](https://www.coursera.org/learn/ai-for-everyone)                                   | ≈ 10 h       | AI Strategy • GenAI Basics          | ★★★★           |
+| 2025 | [Microsoft Learn: Power Platform Fundamentals](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/) | ≈ 12 h       | Low-code Apps • Automation Basics  | ★★★            |
+| 2025 | [Oracle Cloud Infrastructure Foundations](https://learn.oracle.com/ols/home)                                            | ≈ 15 h       | OCI • Cloud Fundamentals            | ★★★            |
 </details>
+
 
 ---
 
 <details open>
 <summary><h2 align="left">📚 Professional Certifications :</h2></summary>
 
-| Section      | Year | Certification                                                 | Duration                        | Focus Area                         |
-|:------------:|:----:|:-------------------------------------------------------------:|:-------------------------------:|:----------------------------------:|
-| **HubSpot**  | 2025 | Sales Hub Software Certification                              | 03/12/2025 – 03/11/2026         | CRM • Sales Ops                    |
-|              | 2025 | Inbound Certification                                         | 05/03/2025 – 06/02/2027         | CRM Strategy                       |
-|              | 2025 | Reporting Certification                                       | 07/09/2025 – 08/08/2026         | Dashboarding • Data Analytics      |
-|              | 2025 | Revenue Operations Certification                              | n/a                             | CRM Ops • Cross-Team Analytics     |
-|              | 2025 | Integrating With HubSpot I                                    | n/a                             | API • CRM Integration              |
-|              | 2025 | Marketing Hub Software                                        | n/a                             | Marketing Automation               |
-| **AWS**      | 2025 | AWS AI Practitioner (planned)                                 | n/a                             | AI Fundamentals • Cloud AI         |
-| **Oracle**   | 2025 | OCI Data Science – Professional (1Z0-1110-25) (planned)       | n/a                             | ML Lifecycle • MLOps • ADS SDK     |
-|              | 2025 | Data Platform Foundations Associate (1Z0‑1195‑25) (planned)   | n/a                             | Cloud Data • Architecture          |
-|              | 2025 | OCI Generative AI Professional (1Z0‑1127‑25) (planned)        | n/a                             | GenAI • Prompt Engineering         |
-|              | 2025 | Oracle Analytics Cloud Professional (1Z0‑1041‑25) (planned)   | n/a                             | BI • Data Visualization            |
-| **Microsoft**| 2025 | Power BI Data Analyst (PL-300) (planned)                      | n/a                             | BI • DAX • Dashboarding            |
-| **Scrum.org**| 2025 | PSM I – Professional Scrum Master I (planned)                 | n/a                             | Agile • Scrum • Team Collaboration |
-
-
+| Section       | Year | Certification                                               | Duration                      | Focus Area                        | Priority (1-5) |
+|:-------------:|:----:|:-----------------------------------------------------------:|:-----------------------------:|:---------------------------------:|:--------------:|
+| **HubSpot**   | 2025 | Sales Hub Software Certification                            | 03/12/2025 – 03/11/2026       | CRM • Sales Ops                   | 🌟             |
+|               | 2025 | Reporting Certification                                     | 07/09/2025 – 08/08/2026       | Dashboarding • Data Analytics     | ★★★            |
+|               | 2025 | Inbound Certification                                       | 05/03/2025 – 06/02/2027       | CRM Strategy                      | ★★★★           |
+|               | 2025 | Revenue Operations Certification                            | n/a                           | CRM Ops • Cross-Team Analytics    | ★★★            |
+|               | 2025 | Integrating With HubSpot I                                  | n/a                           | API • CRM Integration             | ★★★            |
+| **Salesforce**| 2025 | Salesforce Administrator (planned)                          | n/a                           | CRM Administration • Salesforce   | 🌟             |
+|               | 2025 | Salesforce Advanced Admin (planned)                         | n/a                           | CRM Advanced Administration       | ★★★★           |
+| **Microsoft** | 2025 | Power BI Data Analyst (PL-300) (planned)                    | n/a                           | BI • DAX • Dashboarding           | 🌟             |
+|               | 2025 | PL-200 Power Platform Functional Consultant (planned)       | n/a                           | Power Platform • Automation       | ★★★★           |
+|               | 2025 | PL-900 Power Platform Fundamentals (planned)                | n/a                           | Power Platform Basics             | ★★★            |
+|               | 2025 | Azure AI Fundamentals (AI-900) (planned)                    | n/a                           | Cloud AI • Machine Learning       | ★★★★           |
+| **Oracle**    | 2025 | Oracle Analytics Cloud Professional (1Z0-1041-25) (free event) | n/a                        | BI • Data Visualization           | 🌟             |
+|               | 2025 | OCI Data Science – Professional (1Z0-1110-25) (free event)  | n/a                           | ML Lifecycle • MLOps • ADS SDK    | ★★★★           |
+|               | 2025 | Data Platform Foundations Associate (1Z0-1195-25) (free event) | n/a                        | Cloud Data • Architecture         | ★★★★           |
+|               | 2025 | OCI Generative AI Professional (1Z0-1127-25) (free event)   | n/a                           | GenAI • Prompt Engineering        | ★★★            |
+|               | 2025 | OCI Cloud Infrastructure Foundations Associate (1Z0-1085-25) (free event) | n/a                     | Cloud Fundamentals                 | ★★★            |
+| **AWS**       | 2025 | AWS AI Practitioner (planned with AWS Educate)              | n/a                           | AI Fundamentals • Cloud AI        | ★★★★           |
+|               | 2025 | AWS Security Specialty (planned)                            | n/a                           | Cloud Security • Governance       | ★★★            |
+|               | 2025 | AWS Machine Learning Specialty (planned)                    | n/a                           | ML • MLOps • SageMaker            | ★★★★           |
+| **Scrum.org** | 2025 | PSM I – Professional Scrum Master I (planned)               | n/a                           | Agile • Scrum • Team Collaboration| ★★★★           |
+| **EXIN**      | 2025 | Privacy & Data Protection Foundation (planned)              | n/a                           | GDPR • Data Privacy • Compliance  | ★★★★           |
+| **Google Cloud** | 2025 | Google Associate Cloud Engineer (planned)                 | n/a                           | GCP Fundamentals • Cloud Services | ★★★★           |
+|               | 2025 | Google Professional Data Engineer (planned)                 | n/a                           | Data Pipelines • BigQuery • ML    | ★★★★           |
 </details>
 
 ---
