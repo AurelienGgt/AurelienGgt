@@ -87,6 +87,7 @@
 |:----:|:------------------------------------------------------------------------------------------------------------------------:|:----------: |:-----------------------------------:|:--------------:|
 | 2025 | [Google Data Analytics](https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url)                   | ≈ 187 h      | Data Cleaning • SQL • Visualization | ★★★★           |
 | 2025 | [Google IT Support](https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url)                       | ≈ 120 h       | Tech Support • Troubleshooting      | ★★★            |
+| 2025 | [Google Cybersecurity] (Coursera)                                                                                         | ≈ 120 h       | Cybersecurity     | ★★★            |
 | 2025 | Databricks Fundamentals (Databricks Academy)                                                                             | ≈ 3 h + quiz | Lakehouse • Data & AI               | ★★             | 
 | 2025 | IBM Data Science Professional Certificate (Coursera)                                                                     | ≈ 160 h      | Python • Data Analysis • ML • SQL  | ★★★★           |
 | 2025 | Machine Learning (Coursera, Stanford University)                                                                         | ≈ 60 h       | ML fundamentals (Regression, Classification)  | ★★★★           |
