@@ -94,29 +94,27 @@
 <details open>
 <summary> <h2 align="left"> 📚 Professional Certifications</h2></summary>
 
-| Section | Validation | Certification | Focus Area | Link |
-|:-------:|:----------:|:--------------|:-----------|:----|
-| **HubSpot** | 12/03/2025 11/04/2026 | Sales Hub Software | CRM • Sales Ops | [HubSpot](https://academy.hubspot.com/courses/sales-hub) |
-| |  09/08/2025 08/09/2026 | Reporting Certification | Dashboarding • Analytics | [HubSpot](https://academy.hubspot.com/courses/reporting) |
-| |  03/05/2025 02/06/2027 | Inbound Certification | CRM Strategy | [HubSpot](https://academy.hubspot.com/courses/inbound) |
-| | n/a | Revenue Operations Certification | CRM Ops • Cross-Team Analytics | [HubSpot](https://academy.hubspot.com/) |
-| | n/a | Integrating With HubSpot I | API • CRM Integration | [HubSpot](https://academy.hubspot.com/) |
-| **Salesforce** | n/a | Administrator (planned) | CRM Administration | [Salesforce](https://trailhead.salesforce.com/en/users/strailhead) |
-| | n/a | Advanced Admin (planned) | CRM Advanced Administration | [Salesforce](https://trailhead.salesforce.com/) |
-| **Microsoft** | n/a | Power BI Data Analyst (PL-300) (planned) | BI • DAX • Dashboarding | [Microsoft](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst/) |
-| | n/a | PL-200 Power Platform Functional Consultant (planned) | Automation | [Microsoft](https://learn.microsoft.com/en-us/certifications/) |
-| | n/a | PL-900 Power Platform Fundamentals (planned) | Power Platform Basics | [Microsoft](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/) |
-| | n/a | Azure AI Fundamentals (AI-900) (planned) | Cloud AI • ML | [Microsoft](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/) |
-| **Oracle** | n/a | Oracle Analytics Cloud Professional | BI • Data Visualization | [Oracle](https://learn.oracle.com/ols/home) |
-| | n/a | OCI Data Science – Professional | ML Lifecycle • MLOps | [Oracle](https://learn.oracle.com/ols/home) |
-| | n/a | Data Platform Foundations Associate | Cloud Data • Architecture | [Oracle](https://learn.oracle.com/ols/home) |
-| | n/a | OCI Generative AI Professional | GenAI • Prompt Engineering | [Oracle](https://learn.oracle.com/ols/home) |
-| | n/a | OCI Cloud Infrastructure Foundations | Cloud Fundamentals | [Oracle](https://learn.oracle.com/ols/home) |
-| **AWS** | n/a | AWS AI Practitioner | AI Fundamentals • Cloud AI | [AWS](https://aws.amazon.com/training/) |
-| | n/a | AWS Security Specialty | Cloud Security • Governance | [AWS](https://aws.amazon.com/training/) |
-| | n/a | AWS Machine Learning Specialty | ML • MLOps • SageMaker | [AWS](https://aws.amazon.com/training/) |
-| **Scrum.org** | n/a | PSM I – Professional Scrum Master I | Agile • Scrum • Collaboration | [Scrum.org](https://www.scrum.org/) |
-| **EXIN** | n/a | Privacy & Data Protection Foundation | GDPR • Data Privacy • Compliance | [EXIN](https://www.exin.com/) |
+| Section                   | Validation              | Certification                                         | Focus Area                       | Link                                                                                 |
+| :------------------------ | :---------------------- | :---------------------------------------------------- | :------------------------------- | :----------------------------------------------------------------------------------- |
+| **HubSpot**               | 12/03/2025 – 11/04/2026 | Sales Hub Software                                    | CRM • Sales Ops                  | [HubSpot](https://academy.hubspot.com/courses/sales-hub)                             |
+|                           | 09/08/2025 – 08/09/2026 | Reporting Certification                               | Dashboarding • Analytics         | [HubSpot](https://academy.hubspot.com/courses/reporting)                             |
+|                           | 03/05/2025 – 02/06/2027 | Inbound Certification                                 | CRM Strategy                     | [HubSpot](https://academy.hubspot.com/courses/inbound)                               |
+|                           | n/a                     | Revenue Operations Certification                      | CRM Ops • Cross-Team Analytics   | [HubSpot](https://academy.hubspot.com/)                                              |
+|                           | n/a                     | Integrating With HubSpot I                            | API • CRM Integration            | [HubSpot](https://academy.hubspot.com/)                                              |
+| **Salesforce**            | n/a                     | Administrator (planned)                               | CRM Administration               | [Salesforce](https://trailhead.salesforce.com/en/users/strailhead)                   |
+| **Microsoft**             | n/a                     | Power BI Data Analyst (PL-300) (planned)              | BI • DAX • Dashboarding          | [Microsoft](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst/) |
+|                           | n/a                     | PL-200 Power Platform Functional Consultant (planned) | Automation                       | [Microsoft](https://learn.microsoft.com/en-us/certifications/)                       |
+| **Data / BI / Analytics** | n/a                     | SnowPro Core Certification                            | Data Engineering • SQL           | [Snowflake](https://learn.snowflake.com/en/certifications/snowpro-core/)             |
+|                           | n/a                     | Databricks Certified Data Engineer                    | Data Engineering • SQL           | [Databricks](https://www.databricks.com/learn/certification/data-engineer-associate) |
+| **Oracle**                | n/a                     | Oracle Analytics Cloud Professional (1Z0-1041-25)     | BI • Data Visualization          | [Oracle](https://learn.oracle.com/ols/home)                                          |
+|                           | n/a                     | OCI Data Science – Professional (1Z0-1110-25)         | ML Lifecycle • MLOps             | [Oracle](https://learn.oracle.com/ols/home)                                          |
+|                           | n/a                     | Data Platform Foundations Associate (1Z0-1195-25)     | Cloud Data • Architecture        | [Oracle](https://learn.oracle.com/ols/home)                                          |
+| **AWS**                   | n/a                     | AWS AI Practitioner                                   | AI Fundamentals • Cloud AI       | [AWS](https://aws.amazon.com/certification/certified-ai-practitioner/)               |
+|                           | n/a                     | AWS Machine Learning Specialty                        | ML • MLOps • SageMaker           | [AWS](https://aws.amazon.com/certification/certified-machine-learning-specialty/)    |
+|                           | n/a                     | AWS Security Specialty                                | Cloud Security • Governance      | [AWS](https://aws.amazon.com/certification/certified-security-specialty/)            |
+| **Scrum.org**             | n/a                     | PSM I – Professional Scrum Master I                   | Agile • Scrum • Collaboration    | [Scrum.org](https://www.scrum.org/assessments/professional-scrum-master-i-certification) |
+| **EXIN**                  | n/a                     | Privacy & Data Protection Foundation                  | GDPR • Data Privacy • Compliance | [EXIN](https://www.exin.com/data-protection-security/exin-privacy-and-data-protection/exin-privacy-and-data-protection-foundation/)  |
+
 
 
 </details>
