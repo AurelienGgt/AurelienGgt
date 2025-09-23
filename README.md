@@ -74,18 +74,18 @@
 <details open>
 <summary> <h2 align="left"> 🎓 Non-Professional Certificates</h2></summary>
 
-| Year | Certification | Duration | Focus Area | Link |
-|:----:|:--------------|:--------:|:-----------|:----:|
-| 2025 | Google Data Analytics | ≈ 187 h | Data Cleaning • SQL • Visualization | [Coursera](https://www.coursera.org/programs/google-ateliers-numeriques-7uvyv/professional-certificates/google-data-analytics?collectionId=0yhy3) |
-| 2025 | Google IT Support  | ≈ 120 h | Tech Support • Troubleshooting | [Coursera](https://www.coursera.org/programs/google-ateliers-numeriques-7uvyv/professional-certificates/google-it-support?collectionId=0yhy3) |
-| 2025 | Google Cybersecurity  | ≈ 120 h | Cybersecurity | [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity) |
-| 2025 | IBM Data Science Pro. Certificate | ≈ 160 h | Python • Data Analysis • ML • SQL | [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) |
-| 2025 | Machine Learning (Stanford) | ≈ 60 h | ML fundamentals | [Coursera](https://www.coursera.org/learn/machine-learning) |
-| 2025 | Deep Learning Specialization | ≈ 220 h | Neural Networks • CNN • RNN | [Coursera](https://www.coursera.org/specializations/deep-learning) |
-| 2025 | Introduction to Cloud Computing | ≈ 15 h | Cloud Fundamentals • AWS & Azure | [Coursera](https://www.coursera.org/learn/introduction-to-cloud) |
-| 2025 | Google Cloud Fundamentals: Core Infrastructure | ≈ 20 h | Cloud Basics | [Coursera](https://www.coursera.org/learn/gcp-fundamentals) |
-| 2025 | Microsoft Learn: Power Platform Fundamentals | ≈ 12 h | Low-code Apps • Automation | [Microsoft](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/) |
-| 2025 | Oracle Cloud Infrastructure Foundations | ≈ 15 h | OCI • Cloud Fundamentals | [Oracle](https://learn.oracle.com/ols/home) |
+| Certification                                  | Duration | Focus Area       | Link courses                                       | Link  badges                                               |
+|:-----------------------------------------------:|:--------:|:-----------------:|:------------------------------------------------:|:----------------------------------------------------------:|
+| Google Data Analytics | ≈ 187 h | Data Cleaning • SQL • Visualization | [Coursera](https://www.coursera.org/programs/google-ateliers-numeriques-7uvyv/professional-certificates/google-data-analytics?collectionId=0yhy3) |[Badge](https://www.credly.com/badges/b1b94bbb-55bc-4df5-a372-960fb529a17e/public_url) |
+| Google IT Support  | ≈ 120 h | Tech Support • Troubleshooting | [Coursera](https://www.coursera.org/programs/google-ateliers-numeriques-7uvyv/professional-certificates/google-it-support?collectionId=0yhy3) |[Badge](https://www.credly.com/badges/de4ae72e-2fcd-48c5-9966-ad31974058ef/public_url) |
+| Google Cybersecurity  | ≈ 120 h | Cybersecurity | [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity) | n/a |
+| IBM Data Science Pro. Certificate | ≈ 160 h | Python • Data Analysis • ML • SQL | [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) | n/a |
+| Machine Learning (Stanford) | ≈ 60 h | ML fundamentals | [Coursera](https://www.coursera.org/learn/machine-learning) | n/a |
+| Deep Learning Specialization | ≈ 220 h | Neural Networks • CNN • RNN | [Coursera](https://www.coursera.org/specializations/deep-learning) | n/a |
+| Introduction to Cloud Computing | ≈ 15 h | Cloud Fundamentals • AWS & Azure | [Coursera](https://www.coursera.org/learn/introduction-to-cloud) | n/a |
+| Google Cloud Fundamentals: Core Infrastructure | ≈ 20 h | Cloud Basics | [Coursera](https://www.coursera.org/learn/gcp-fundamentals) | n/a |
+| Microsoft Learn: Power Platform Fundamentals | ≈ 12 h | Low-code Apps • Automation | [Microsoft](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/) | n/a |
+| Oracle Cloud Infrastructure Foundations | ≈ 15 h | OCI • Cloud Fundamentals | [Oracle](https://learn.oracle.com/ols/home) | n/a |
 
 </details>
 
