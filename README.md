@@ -27,6 +27,7 @@
 <td align="center"><img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" alt="AWS Educate" width="80" height="80" /></td>
 <td align="center"><img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support" width="80" height="80" /></td>
 <td align="center"><img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80" /></td>
+<td align="center"><img src="https://images.credly.com/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" alt="Astronomer Certification for Apache Airflow 3 Fundamentals" width="80" height="80" /></td>
 </tr>
 </table>
 
@@ -108,6 +109,7 @@
 |                           | n/a                     | Databricks Certified Data Engineer                    | Data Engineering • SQL           | [Databricks](https://www.databricks.com/learn/certification/data-engineer-associate) |
 | **Oracle**                | n/a                     | Oracle Analytics Cloud Professional (1Z0-1041-25)     | BI • Data Visualization          | [Oracle](https://learn.oracle.com/ols/home)                                          |
 |                           | n/a                     | OCI Data Science – Professional (1Z0-1110-25)         | ML Lifecycle • MLOps             | [Oracle](https://learn.oracle.com/ols/home)                                          |
+| **Apache**                | does not have an expiration                 | Apache Airflow 3 Fundamentals     | Apache Airflow • DAGs • Data Pipelines • Orchestration • Scheduling  | [Apache](https://academy.astronomer.io/certification-exam-apache-airflow-3-fundamentals?_gl=1*1o2rxt5*_up*MQ..*_ga*MTE5NTY0ODAyOC4xNzU5NDA2MTQ0*_ga_9WXYK3PMB6*czE3NTk0MDYxNDMkbzEkZzAkdDE3NTk0MDYxNDMkajYwJGwwJGgw*_ga_14DHW7X721*czE3NTk0MDYxNDMkbzEkZzAkdDE3NTk0MDYxNDMkajYwJGwwJGgw*_ga_GJKXZ8W5DN*czE3NTk0MDYxNDMkbzEkZzAkdDE3NTk0MDYxNDMkajYwJGwwJGgw)        |
 |                           | n/a                     | Data Platform Foundations Associate (1Z0-1195-25)     | Cloud Data • Architecture        | [Oracle](https://learn.oracle.com/ols/home)                                          |
 | **AWS**                   | n/a                     | AWS Machine Learning Specialty                        | ML • MLOps • SageMaker           | [AWS](https://aws.amazon.com/certification/certified-machine-learning-specialty/)    |
 |                           | n/a                     | AWS Security Specialty                                | Cloud Security • Governance      | [AWS](https://aws.amazon.com/certification/certified-security-specialty/)            |
